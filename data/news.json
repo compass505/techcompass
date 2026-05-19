@@ -1,5 +1,55 @@
 [
   {
+    "title": "日立、Anthropicと提携　グループ29万人に「Claude」などAI導入　社会インフラ分野にも展開へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/19/news120.html",
+    "summary": "日立がAnthropicと提携し、グループ約29万人向けにClaudeなどのAIを導入。社会インフラ分野への応用も視野に入れている。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "大手企業による大規模なAI導入の事例で、業務プロセスやインフラ分野へのAI適用の潮流を示すため。",
+    "published_at": "2026-05-19 21:30:00",
+    "created_at": "2026-05-20 05:59:33"
+  },
+  {
+    "title": "ドコモはとばっちり？　19日の通信障害、原因はMVNOの設備不具合　DTIも報告",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/19/news116.html",
+    "summary": "19日に発生した通信障害の原因がMVNO側の設備不具合であると判明。ドコモ側への波及や利用者影響が報告された。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "通信インフラの信頼性に関わる事象で、MVNOとキャリアの運用・連携の課題を浮き彫りにするため。",
+    "published_at": "2026-05-19 20:10:00",
+    "created_at": "2026-05-20 05:59:33"
+  },
+  {
+    "title": "原子力規制庁、2025年度に業務用スマホ10台紛失　2台は未発見「原発や核情報含まず」",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/19/news083.html",
+    "summary": "原子力規制庁が2025年度に業務用スマホ10台を紛失し、うち2台は未発見。庁は原発・核関連の情報は含まれていないと説明している。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "規制当局による機器紛失は管理・情報漏洩リスクの観点で重大であり、組織的対策が求められるため。",
+    "published_at": "2026-05-19 13:37:00",
+    "created_at": "2026-05-20 05:59:33"
+  },
+  {
+    "title": "Anthropicの「Mythos」でCloudflareがサイバー防衛テスト──脆弱性発見から悪用までが数分に短縮と警告",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/19/news060.html",
+    "summary": "CloudflareがAnthropicの大規模モデル「Mythos」を用いてサイバー防御の実験を実施。脆弱性の発見から実際の悪用までの時間が数分に短縮されうると警告した。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "AIツールが脆弱性発見・悪用を極端に高速化する可能性を示し、サイバー防御方針や自動検知の必要性に広範な影響を与えるため。",
+    "published_at": "2026-05-19 08:54:00",
+    "created_at": "2026-05-20 05:59:33"
+  },
+  {
+    "title": "Anthropic、SDKおよびMCPツール企業のStainlessを買収",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/19/news059.html",
+    "summary": "AnthropicがSDKやMCP関連ツールを提供するStainlessを買収。開発者向けツールやセーフティ・プロセスの強化を意図した動きとされる。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "AI開発・運用ツール分野での再編を示すM&Aで、開発者エコシステムに影響を与える可能性があるため。",
+    "published_at": "2026-05-19 07:22:00",
+    "created_at": "2026-05-20 05:59:33"
+  },
+  {
     "title": "NHK技研、「空飛ぶロボカメ」と「IP回線中継ドローン」を開発　「災害時でも途切れない」",
     "url": "https://www.itmedia.co.jp/news/articles/2605/18/news121.html",
     "summary": "NHK技研が災害時の中継途切れ対策として、飛行するロボカメとIP回線を中継するドローンを開発。被災地での通信確保・映像中継の強化を目指すプロトタイプだ。",
