@@ -1,5 +1,55 @@
 [
   {
+    "title": "GitHub内部リポジトリへの不正アクセス、「悪意あるVS Code拡張機能」が関与と特定　約3800件流出か",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news137.html",
+    "summary": "GitHubの内部リポジトリに不正アクセスが発生し、悪意あるVisual Studio Code拡張機能が関与していると特定。約3,800件のリポジトリ流出が報じられている。サプライチェーンと開発者環境への攻撃を示す重大インシデント。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "大規模なコード流出と開発ツール経由の供給網攻撃で、開発エコシステム全体に広範な影響が及ぶ可能性があるため。",
+    "published_at": "2026-05-20 21:00:00",
+    "created_at": "2026-05-21 06:27:13"
+  },
+  {
+    "title": "Google、AIが価格監視や決済最適化を自動で行う「Universal Cart」発表",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news102.html",
+    "summary": "Googleが小売・EC向けに、AIで価格監視や決済最適化を自動化する『Universal Cart』を発表。購入体験の一元化と自動化で小売業・広告・決済の競争構造に変化をもたらす可能性がある。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "購買フローの自動化は小売業や広告・決済プラットフォームの構造に影響し、事業側の戦略に関わるため。",
+    "published_at": "2026-05-20 14:41:00",
+    "created_at": "2026-05-21 06:27:13"
+  },
+  {
+    "title": "Google、パーソナルAIエージェント「Gemini Spark」発表――デバイスを閉じても自律で働く",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news068.html",
+    "summary": "Googleがデバイスを閉じた状態でも自律的に動作するパーソナルAIエージェント『Gemini Spark』を発表。常時稼働やバックグラウンドでの処理が可能になり、プライバシーやバッテリー、プラットフォーム戦略に関する議論を呼びそうだ。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "個人用エージェントの常時稼働化はユーザー体験とプライバシー・端末設計に影響し、開発者や企業の対応を促すため。",
+    "published_at": "2026-05-20 07:15:00",
+    "created_at": "2026-05-21 06:27:13"
+  },
+  {
+    "title": "Google検索が「AI検索」に──エージェント機能やマルチモーダル入力に対応",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news067.html",
+    "summary": "Google検索が従来の検索からAI検索へと大きく進化。エージェント機能や画像・音声などのマルチモーダル入力に対応し、検索体験と情報取得の仕組みを変える可能性がある。検索エコシステムと広告・サービスの波及が予想される。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "世界的プラットフォームであるGoogle検索の機能転換は検索行動、広告市場、開発者・ビジネス戦略に広く影響するため。",
+    "published_at": "2026-05-20 06:08:00",
+    "created_at": "2026-05-21 06:27:13"
+  },
+  {
+    "title": "Appleが5年がかりで開発したセキュリティ対策を5日で突破　「Mythos」が見せつけた脆弱性攻撃の威力",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/19/news100.html",
+    "summary": "Appleの長年のセキュリティ対策が、攻撃グループ『Mythos』により短期間で突破されたと報告。高度な脆弱性攻撃の実態と影響、プラットフォーム防御の限界が浮き彫りになっている。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "主要プラットフォームの防御が短期間で破られた事例は、デバイス安全性と開発・運用の見直しを促すため選定。",
+    "published_at": "2026-05-20 06:00:00",
+    "created_at": "2026-05-21 06:27:13"
+  },
+  {
     "title": "日立、Anthropicと提携　グループ29万人に「Claude」などAI導入　社会インフラ分野にも展開へ",
     "url": "https://www.itmedia.co.jp/news/articles/2605/19/news120.html",
     "summary": "日立がAnthropicと提携し、グループ約29万人向けにClaudeなどのAIを導入。社会インフラ分野への応用も視野に入れている。",
