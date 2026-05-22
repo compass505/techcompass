@@ -1,5 +1,55 @@
 [
   {
+    "title": "Red Hatが期限のないサポート「Red Hat Enterprise Linux Long-Life アドオン」発表 あるバージョンのRHELを期限なく動かし続けられる",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/22/news131.html",
+    "summary": "Red HatがRHELの特定バージョンを期限なく稼働させられる長期サポート製品を発表。企業の保守・移行計画に影響を与え、OSライフサイクル管理の選択肢が広がる。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "主要エンタープライズOSのサポート方針変更はクラウド/運用戦略や移行計画に影響するため業界的に重要",
+    "published_at": "2026-05-22 18:08:00",
+    "created_at": "2026-05-23 05:52:36"
+  },
+  {
+    "title": "「Google AI Pro」ユーザーはYouTube広告ほぼ非表示　「Premium Lite」無料付与",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/22/news107.html",
+    "summary": "Googleの有料AIサービス「Google AI Pro」利用者に対し、YouTubeの広告がほぼ非表示になる特典として「Premium Lite」を無料付与する方針。広告収益モデルやサブスク戦略に影響する措置。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "大手プラットフォームの収益化・サブスク戦略の変更は利用者体験とクリエイター収入に波及するため注目度が高い",
+    "published_at": "2026-05-22 13:27:00",
+    "created_at": "2026-05-23 05:52:36"
+  },
+  {
+    "title": "不法滞在・就労　入管がSNS分析強化へ　AIで自動巡回システム導入を検討",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/22/news070.html",
+    "summary": "入国管理局が不法滞在・就労対策として、SNSをAIで自動巡回・分析するシステム導入を検討。監視対象の拡大やプライバシー、誤検知のリスクが懸念される動き。政策・運用ルールの議論が焦点に。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "政府がAIで国民のSNSを自動監視する可能性はプライバシーと行政運用に大きく影響するため重要",
+    "published_at": "2026-05-22 10:18:00",
+    "created_at": "2026-05-23 05:52:36"
+  },
+  {
+    "title": "Spotify、UMGとの提携で生成AIで楽曲リミックスが作れる有料ツール導入へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/22/news065.html",
+    "summary": "SpotifyがUMGと提携し、生成AIを使って既存楽曲のリミックスを作れる有料ツールを導入予定。権利処理やクリエイターの商流に関する新たな枠組みが生まれる可能性あり。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "音楽業界での生成AI導入は著作権、収益分配、クリエイティブ環境に広範な影響を与えるため重要",
+    "published_at": "2026-05-22 07:56:00",
+    "created_at": "2026-05-23 05:52:36"
+  },
+  {
+    "title": "米政府、IBMなど量子技術企業9社に総額約20億ドルの投資へ　各社の株式取得",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/22/news063.html",
+    "summary": "米政府が量子技術分野の主要企業9社に対し総額約20億ドルを投資し、各社の株式を取得する方針。国家戦略として量子競争力を強化する狙いで、産業・研究への影響が大きい。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "国家主導の大規模投資は量子技術の競争環境と産業支援に直結し、長期的な市場構造を変えるため重要",
+    "published_at": "2026-05-22 07:01:00",
+    "created_at": "2026-05-23 05:52:36"
+  },
+  {
     "title": "AI投資など成果最大化へ国・地域別戦略　自民提言案の全容判明　骨太にも反映",
     "url": "https://www.itmedia.co.jp/news/articles/2605/21/news126.html",
     "summary": "自民党のAI投資などに関する提言案の全容が判明し、国・地域別の戦略や成果最大化の方針を示した。骨太の方針にも反映される見込みで、政府の資金配分や政策方針に影響する。研究開発や産業支援の方向性が変わる可能性がある。",
