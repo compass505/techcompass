@@ -1,5 +1,25 @@
 [
   {
+    "title": "これぞ“普通のコンデジ”　パナソニック「DC-TX3」はカジュアルに使える15倍ズーム機",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/23/news012.html",
+    "summary": "パナソニックの新しいコンパクトデジタルカメラ「DC-TX3」を紹介。15倍ズームやカジュアルな使い勝手を重視したモデルで、普段使い向けの仕様にまとめられている。",
+    "importance": 1,
+    "category": "ガジェット",
+    "reason": "個別の製品発表で影響範囲は限定的。ガジェットニュースとしては新情報だが優先度は低い。",
+    "published_at": "2026-05-23 08:14:00",
+    "created_at": "2026-05-24 03:15:04"
+  },
+  {
+    "title": "Google.comで「ignore」を検索すると……",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/23/news033.html",
+    "summary": "Google検索でキーワード「ignore」を入力した際の挙動に関する話題。検索結果や表示に通常と異なる点や興味深い現象が見られたと報じられている。",
+    "importance": 1,
+    "category": "その他",
+    "reason": "技術的・社会的影響は小さい豆知識的な話題。広範な読者の判断を変える内容ではない。",
+    "published_at": "2026-05-23 07:32:00",
+    "created_at": "2026-05-24 03:15:04"
+  },
+  {
     "title": "Red Hatが期限のないサポート「Red Hat Enterprise Linux Long-Life アドオン」発表 あるバージョンのRHELを期限なく動かし続けられる",
     "url": "https://www.itmedia.co.jp/news/articles/2605/22/news131.html",
     "summary": "Red HatがRHELの特定バージョンを期限なく稼働させられる長期サポート製品を発表。企業の保守・移行計画に影響を与え、OSライフサイクル管理の選択肢が広がる。",
