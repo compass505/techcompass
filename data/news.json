@@ -1,5 +1,55 @@
 [
   {
+    "title": "NVIDIAがヒト型ロボットのリファレンス公開、中国Unitree「H2」ベース　26年後半に実機販売も",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/01/news117.html",
+    "summary": "NVIDIAがヒト型ロボットのリファレンス設計を公開。中国Unitreeの「H2」ベースで、同社は2026年後半に実機販売も見込んでいると報告。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "大手がロボットのリファレンスを公開することは開発の敷居を下げ、ロボット産業や研究の方向性に影響を与える可能性があるため",
+    "published_at": "2026-06-01 19:00:00",
+    "created_at": "2026-06-02 07:55:42"
+  },
+  {
+    "title": "市役所のPC83台が盗難被害　中に11万人分の個人情報――委託先社員を逮捕、転売目的か　浦添市",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/01/news086.html",
+    "summary": "浦添市で市役所のPC83台が盗難に遭い、11万人分とされる個人情報が含まれていた可能性。委託先の社員が逮捕され、転売目的の疑いがあると発表された。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "多数の市民データが関わる物理的盗難＋内部関与という重大な情報管理・セキュリティ問題であり公共部門への波及が大きい",
+    "published_at": "2026-06-01 16:50:00",
+    "created_at": "2026-06-02 07:55:42"
+  },
+  {
+    "title": "Intel、データセンター向け新CPU「Xeon 6+」発表　エージェンティックAI基盤を強化",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/01/news103.html",
+    "summary": "Intelがデータセンター向け新CPU「Xeon 6+」を発表。エージェンティックAIを意識したアーキテクチャで、クラウド事業者や大規模AIサービスのインフラ性能を向上させる狙い。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "主要CPUベンダーによるAI重視の新世代Xeon投入はクラウド/AIインフラの競争と運用に広く影響するため",
+    "published_at": "2026-06-01 15:28:00",
+    "created_at": "2026-06-02 07:55:42"
+  },
+  {
+    "title": "NVIDIA、Windows用プロセッサ「RTX Spark」発表　ノートPCでローカルAIを高速実行",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/01/news088.html",
+    "summary": "NVIDIAがWindows向けプロセッサ「RTX Spark」を発表。ノートPC上でのローカルAI推論・実行を高速化し、オンデバイスAI普及を後押しする製品。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "NVIDIAのPC向け専用プロセッサ参入はローカルAIの普及に直結し、PCメーカーやソフトウェアエコシステムに影響を与えるため",
+    "published_at": "2026-06-01 14:00:00",
+    "created_at": "2026-06-02 07:55:42"
+  },
+  {
+    "title": "エリン・ブロコビッチ氏、AIデータセンター建設の「透明性欠如」を批判　住民報告マップも公開",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/01/news054.html",
+    "summary": "環境活動家エリン・ブロコビッチ氏がAIデータセンター建設に関し透明性の欠如を批判し、住民からの報告をまとめたマップを公開。地域住民への説明責任を問う動きが活発化している。",
+    "importance": 2,
+    "category": "法規制",
+    "reason": "AIインフラ建設に対する市民・環境の懸念が公になり、規制や地域合意の議論に影響する可能性があるため",
+    "published_at": "2026-06-01 07:03:00",
+    "created_at": "2026-06-02 07:55:42"
+  },
+  {
     "title": "ソフトバンクG、フランスで最大750億ユーロ（約14兆円）投資　5GWのAIデータセンター整備へ",
     "url": "https://www.itmedia.co.jp/news/articles/2605/31/news022.html",
     "summary": "ソフトバンクグループがフランスで最大750億ユーロ（約14兆円）を投じ、合計出力5GW規模のAI向けデータセンター群を整備する計画を発表。欧州でのAIインフラ拡充と大規模投資が柱。",
@@ -270,16 +320,6 @@
     "created_at": "2026-05-26 05:26:43"
   },
   {
-    "title": "日大、教職員1万人が「Google AI Pro」活用へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/25/news129.html",
-    "summary": "日本大学が教職員約1万人に対しGoogleの有料AIサービス「Google AI Pro」を導入。教育・事務でのAI活用を大規模に推進する事例で、教育現場の業務やガバナンスに影響する可能性あり。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "大規模な教育現場での有料AI導入事例で、実務利用や規程整備の先行例となるため",
-    "published_at": "2026-05-25 19:38:00",
-    "created_at": "2026-05-26 05:26:43"
-  },
-  {
     "title": "パワポにChatGPTを召喚できるアドイン、OpenAIがβ版公開　スライド作成から編集まで指示するだけ",
     "url": "https://www.itmedia.co.jp/news/articles/2605/25/news102.html",
     "summary": "OpenAIがPowerPoint向けのChatGPTアドインをβ公開。スライド作成や編集を自然言語で指示でき、ビジネス生産性ツールへのAI統合が進む。業務フローや利用慣行に影響する可能性あり。",
@@ -297,16 +337,6 @@
     "category": "法規制",
     "reason": "金融インフラと規制の両面で広範な影響があり、実務上の対応変化を促すため",
     "published_at": "2026-05-25 12:20:00",
-    "created_at": "2026-05-26 05:26:43"
-  },
-  {
-    "title": "SNSにおける情報漏えい、企業の7割で社内ルール「なし」　企業規模の違いで対応に格差か",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/25/news078.html",
-    "summary": "調査で企業の約7割がSNSでの情報漏えいに関する社内ルールを持っていないと判明。企業規模で対応格差があり、ガバナンスやリスク管理の改善余地が明らかになった。",
-    "importance": 2,
-    "category": "セキュリティ",
-    "reason": "企業の情報漏えいリスク管理に関するギャップが明確になり、多くの組織で対応見直しが必要なため",
-    "published_at": "2026-05-25 12:06:00",
     "created_at": "2026-05-26 05:26:43"
   },
   {
