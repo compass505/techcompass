@@ -1,5 +1,55 @@
 [
   {
+    "title": "女性向け転職サイトで3万8000件の不正ログイン　「女の転職type」にリスト型攻撃",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/02/news077.html",
+    "summary": "求人サイト『女の転職type』で約3万8000件の不正ログインが発生。リスト型攻撃（credential stuffing）が原因とされ、影響を受けたユーザーの情報漏えいや不正利用の懸念がある。サービス側の対策強化が課題となる。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "多数のアカウントが被害に遭っており、認証強化や二段階認証の重要性を示す具体的な事例であるため。",
+    "published_at": "2026-06-02 12:20:00",
+    "created_at": "2026-06-03 07:53:05"
+  },
+  {
+    "title": "AWS、他クラウドと500Mbpsまでの接続が無料に 「AWS Interconnect - multicloud」に無料枠が登場",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/02/news085.html",
+    "summary": "AWSがマルチクラウド接続サービスに500Mbpsまでの無料枠を追加。クラウド間通信コストの構造を変え、マルチクラウド戦略の採用やコスト最適化に影響を与える可能性がある。競合クラウドへの囲い込み戦略の一環と見られる。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "主要クラウド事業者の料金政策変更でマルチクラウド採用や事業戦略に直接影響しうるため。",
+    "published_at": "2026-06-02 12:06:00",
+    "created_at": "2026-06-03 07:53:05"
+  },
+  {
+    "title": "Google擁するAlphabet、AI基盤増強に向け800億ドルの株式調達へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/02/news066.html",
+    "summary": "AlphabetがAI基盤強化のために800億ドル規模の株式調達を計画。大規模な資本投入でデータセンターやAIチップなどインフラ投資を加速するとみられる。クラウド競争や市場資本政策に大きな影響を与える可能性がある。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要プラットフォームによる巨額投資でクラウド・AIインフラの競争と市場構造に強く影響するため。",
+    "published_at": "2026-06-02 09:34:00",
+    "created_at": "2026-06-03 07:53:05"
+  },
+  {
+    "title": "フロリダ州がOpenAIとアルトマンCEOを提訴　ChatGPTを「子供を危険にさらす製品」と非難",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/02/news063.html",
+    "summary": "フロリダ州がOpenAIとCEOを提訴し、ChatGPTが子供に危険を及ぼす製品だと主張。州レベルでの訴訟はAIの法的責任や規制議論を加速させる可能性がある。今後の判例・規制動向が注目される。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "州による訴訟はAI製品の法的責任・規制の先例になり得、業界と政策に広範な影響を及ぼすため。",
+    "published_at": "2026-06-02 07:18:00",
+    "created_at": "2026-06-03 07:53:05"
+  },
+  {
+    "title": "Anthropicが上場申請",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/02/news062.html",
+    "summary": "AIスタートアップのAnthropicが上場を申請。主要な生成AIプレイヤーの上場は資金調達、市場評価、競争環境に影響を与え、AI産業の資本市場動向を左右する重要な出来事となる。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "有力なAI企業の上場は業界の資金流入と競争構造に影響を与えるため注目度が高い。",
+    "published_at": "2026-06-02 06:20:00",
+    "created_at": "2026-06-03 07:53:05"
+  },
+  {
     "title": "NVIDIAがヒト型ロボットのリファレンス公開、中国Unitree「H2」ベース　26年後半に実機販売も",
     "url": "https://www.itmedia.co.jp/news/articles/2606/01/news117.html",
     "summary": "NVIDIAがヒト型ロボットのリファレンス設計を公開。中国Unitreeの「H2」ベースで、同社は2026年後半に実機販売も見込んでいると報告。",
