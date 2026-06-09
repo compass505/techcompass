@@ -1,5 +1,55 @@
 [
   {
+    "title": "企業の口座を狙うボイスフィッシングが巧妙化　日本サイバー犯罪対策センターが注意喚起",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news130.html",
+    "summary": "企業の銀行口座を狙う手口として、音声合成やなりすましを用いたボイスフィッシングが巧妙化。日本サイバー犯罪対策センターが注意喚起と対策の周知を促した。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "企業の資金被害に直結する手口の高度化は業務対策やセキュリティ強化の必要性を高め、多くの企業に関係するため重要。",
+    "published_at": "2026-06-09 19:45:00",
+    "created_at": "2026-06-10 02:31:38"
+  },
+  {
+    "title": "Apple、「Private Cloud Compute」（PCC）でGoogle Cloud上のNVIDIA GPUを活用",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news117.html",
+    "summary": "AppleがPrivate Cloud ComputeでGoogle CloudのNVIDIA GPUを活用すると発表。自社AI機能向けに外部クラウド／GPUリソースを採用する戦略を示す。クラウド間協業とAIインフラ競争に示唆。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "主要プラットフォーム企業が他社クラウドとGPUを組み合せる決定は、クラウド市場とAIインフラの競争環境に影響するため重要。",
+    "published_at": "2026-06-09 17:06:00",
+    "created_at": "2026-06-10 02:31:38"
+  },
+  {
+    "title": "Google「AI Plus」4割値下げ、月725円に　ストレージ倍増、価格攻勢でシェア拡大へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news077.html",
+    "summary": "GoogleがAI Plusの価格を約4割値下げし月725円に。ストレージ増量などサービス強化で価格競争を仕掛け、ユーザー獲得を狙う動き。AIサブスク市場の競争激化を示す。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要プレーヤーによる価格・機能の競争はAIサービスの普及と市場構造に影響するため掲載価値が高い。",
+    "published_at": "2026-06-09 11:07:00",
+    "created_at": "2026-06-10 02:31:38"
+  },
+  {
+    "title": "OpenAIがIPO申請を発表　時期は未定",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news074.html",
+    "summary": "OpenAIが米国での新規株式公開（IPO）申請を発表。時期は未定だが、上場に向けた本格的な準備入りを示す。AI業界と資本市場への影響が大きい動き。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "OpenAIの上場はAI産業と資本市場に広範な影響を与えるため、企業戦略・投資動向を押さえる重要ニュース。",
+    "published_at": "2026-06-09 10:25:00",
+    "created_at": "2026-06-10 02:31:38"
+  },
+  {
+    "title": "「iOS 27」発表　「Siri AI」などAI大幅強化、アプリ起動も3割速く　26年秋提供へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news065.html",
+    "summary": "AppleがiOS 27を発表し、Siri AIなどのAI機能を大幅強化。アプリ起動の高速化など性能改善も盛り込み、2026年秋に提供予定。モバイルOSのAI組込みが進む。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要モバイルOSのAI統合は開発者・サービス提供・ユーザー体験に直接影響するため、多くの読者に重要。",
+    "published_at": "2026-06-09 04:46:00",
+    "created_at": "2026-06-10 02:31:38"
+  },
+  {
     "title": "「サーバ室にあるはずの記憶媒体が行方不明」　九電子会社　最大1090万件分の顧客情報を保存　キャビネット施錠せず",
     "url": "https://www.itmedia.co.jp/news/articles/2606/08/news135.html",
     "summary": "九州の電子機器会社で、サーバ室に保管されていた外付け記憶媒体が行方不明に。最大で約1090万件分の顧客情報が保存されており、キャビネットが施錠されていなかったという。大規模な個人情報流出の懸念がある。",
