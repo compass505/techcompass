@@ -1,5 +1,55 @@
 [
   {
+    "title": "厚労省、Teamsチャット2年10カ月分が消失　東芝が作業ミス　一部は復元困難",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news129.html",
+    "summary": "厚労省のTeamsチャット約2年10カ月分が東芝の作業ミスで消失。一部は復元困難とされ、業務記録や監査、個人情報の扱いに影響が出る可能性がある。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "政府機関の記録消失でデジタル運用とベンダ管理の課題が浮上。業務・監査・信頼に広く影響するため優先度高い。",
+    "published_at": "2026-06-12 23:14:00",
+    "created_at": "2026-06-13 02:43:22"
+  },
+  {
+    "title": "“11億円超資金流出”のはてな、通期最終赤字に転落見込み　被害額を特別損失に計上",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news122.html",
+    "summary": "はてなが11億円超の資金流出被害を受け、通期で最終赤字に転落する見込み。被害額を特別損失に計上し、経営・セキュリティ対策の見直しが必要となる。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "中堅IT企業の大規模流出は業績と利用者信頼に直結し、セキュリティ対策・ガバナンスの教訓を示すため掲載価値が高い。",
+    "published_at": "2026-06-12 17:30:00",
+    "created_at": "2026-06-13 02:43:22"
+  },
+  {
+    "title": "Starlink対抗の衛星ネット「Amazon Leo」　NTTが国内提供へ　災害時や離島でも“つながる回線”に",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news095.html",
+    "summary": "NTTがAmazonの低軌道衛星ネットワーク『Amazon Leo』を国内で提供へ。災害時や離島での接続性向上を見込み、衛星インターネット市場の競争を加速する。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "主要インフラ事業者による衛星ネット導入で接続選択肢が拡大し、通信インフラ・災害対応に広範な影響があるため。",
+    "published_at": "2026-06-12 12:15:00",
+    "created_at": "2026-06-13 02:43:22"
+  },
+  {
+    "title": "SIM挿すだけで量子安全、ドコモビジネスが開発中　迫る「Q-Day」でIoT機器にも“耐量子”の必要性",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news058.html",
+    "summary": "ドコモビジネスが、SIMを差すだけで量子耐性を持たせられる技術を開発中。Q-Dayを見据え、IoT機器の暗号耐性を向上させる狙いがある。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "量子脅威への実用的対策として通信事業者が動く点はIoTセキュリティと産業の準備に直結するため重要。",
+    "published_at": "2026-06-12 09:00:00",
+    "created_at": "2026-06-13 02:43:22"
+  },
+  {
+    "title": "OpenAI、クラウド開発環境のOnaを買収　「Codex」の強化狙い",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/12/news072.html",
+    "summary": "OpenAIがクラウド開発環境Onaを買収。コード生成系技術Codexの強化を狙い、開発者向けツールやIDE統合におけるOpenAIの戦略を進める動き。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AIによる開発者ツール競争とプラットフォーム戦略に影響する買収で、開発ワークフローの変化を促す可能性があるため。",
+    "published_at": "2026-06-12 08:46:00",
+    "created_at": "2026-06-13 02:43:22"
+  },
+  {
     "title": "AIに買い物を任せる時代へ　VisaとOpenAIが提携──“代理決済”を上限設定などで安全に",
     "url": "https://www.itmedia.co.jp/news/articles/2606/11/news126.html",
     "summary": "VisaとOpenAIが提携し、AIが消費者に代わって決済を行う“代理決済”の実装を目指す。上限設定など安全策を盛り込み、実用化を進める方針。決済インフラとAIが直結する点で業界影響が大きい。",
@@ -218,16 +268,6 @@
     "reason": "生成AIの運用で懸念される情報漏えい手法への対策で、企業の導入方針やセキュリティ対策に直接関わるため",
     "published_at": "2026-06-07 07:22:00",
     "created_at": "2026-06-08 05:02:24"
-  },
-  {
-    "title": "moomoo証券、監視委が処分勧告　NISA対象外を「対象」と虚偽説明　顧客対応も「著しく杜撰」",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/05/news124.html",
-    "summary": "moomoo証券に対し監視委が処分勧告。NISAの対象外商品を対象と誤表示し、顧客対応も杜撰と指摘された。\n金融サービス事業者としての信頼性とコンプライアンスが問われる事例。",
-    "importance": 2,
-    "category": "法規制",
-    "reason": "金融監督の処分勧告で投資サービスの信頼性や規制遵守の問題を示すため、業界注視が必要。",
-    "published_at": "2026-06-05 20:20:00",
-    "created_at": "2026-06-07 04:59:14"
   },
   {
     "title": "家庭用PCでも数秒でサーバを“落とせる”、HTTP/2の脆弱性をCodexが発見　さくらインターネットも対策",
@@ -1090,16 +1130,6 @@
     "created_at": "2026-05-15 05:49:28"
   },
   {
-    "title": "DeNAアカウント、メールの乗っ取りに注意喚起　登録情報の書き替えやDeNA Payで金銭被害のおそれも",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news137.html",
-    "summary": "DeNAがアカウントのメール乗っ取りに関する注意喚起を発出。登録情報の書き替えや決済サービス（DeNA Pay）を悪用した金銭被害の恐れがあるとして利用者に対策を促している。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "実際の不正利用や金銭被害につながる可能性がある利用者向けのセキュリティ警告のため",
-    "published_at": "2026-05-13 20:57:00",
-    "created_at": "2026-05-14 07:48:33"
-  },
-  {
     "title": "Geminiがスマホを“自動操縦”　Google、Android向けAIエージェント「Gemini Intelligence」発表",
     "url": "https://www.itmedia.co.jp/news/articles/2605/13/news136.html",
     "summary": "GoogleがAndroid向けのAIエージェント「Gemini Intelligence」を発表。端末上でアプリ操作やタスク自動化を行い、スマホの“自動操縦”を目指す。ユーザー体験、プライバシー、開発者エコシステムに影響する可能性が高い。",
@@ -1107,26 +1137,6 @@
     "category": "AI",
     "reason": "Androidプラットフォームに組み込まれる大規模なAI機能で、ユーザー操作や開発・プライバシーに幅広く影響するため",
     "published_at": "2026-05-13 20:45:00",
-    "created_at": "2026-05-14 07:48:33"
-  },
-  {
-    "title": "Claudeに法律業務特化の拡張機能　DocuSignなどと連携、12種の新プラグインも",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news129.html",
-    "summary": "AnthropicのClaudeに法律業務向けの拡張機能が追加され、DocuSignなどと連携するプラグインを導入。法務領域でのLLM活用が進み、専門業務のワークフロー変革が進む可能性がある。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "法務分野でのLLM組み込みと外部サービス連携により業務利用が進む点で注目されるため",
-    "published_at": "2026-05-13 18:40:00",
-    "created_at": "2026-05-14 07:48:33"
-  },
-  {
-    "title": "Google、AI特化の次世代ノートPC「Googlebook」発表　26年後半に投入へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/13/news104.html",
-    "summary": "GoogleがAI処理に最適化した次世代ノートPC「Googlebook」を発表。2026年後半投入予定で、クライアント側のAI性能強化を目指すハード戦略の一環として注目される。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "PCハードでのAI特化戦略は業界トレンドを示すが、新製品発表のため重要度は上限を抑えた",
-    "published_at": "2026-05-13 13:55:00",
     "created_at": "2026-05-14 07:48:33"
   },
   {
