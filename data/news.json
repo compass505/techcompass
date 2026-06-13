@@ -1,5 +1,35 @@
 [
   {
+    "title": "DAZNが謝罪　年間契約のサッカープランに一部「月額プランと受け取れる記載」があったため　希望者は解約も",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/13/news031.html",
+    "summary": "DAZNが年間契約のサッカープラン表記について誤解を招く記載があったとして謝罪。希望者には解約対応を案内している。",
+    "importance": 1,
+    "category": "ビジネス",
+    "reason": "消費者向けの表記ミスによる企業対応の問題で影響は限定的だが、利用者への影響と企業責任という点で留意に値する。",
+    "published_at": "2026-06-13 21:35:00",
+    "created_at": "2026-06-14 01:50:57"
+  },
+  {
+    "title": "「Claude Fable 5」「Mythos 5」全面停止　米政府の指令により　Anthropicは早期復旧を宣言",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/13/news026.html",
+    "summary": "米政府の指令でAnthropicの主要モデル『Claude Fable 5』『Mythos 5』が全面停止。Anthropicは早期復旧を表明しており、理由と今後の規制・運用対応が注目される。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "政府介入による主要LLMの停止はAIサービスの可用性と規制・安全の議論に直接影響するため業界的に重要。",
+    "published_at": "2026-06-13 10:50:00",
+    "created_at": "2026-06-14 01:50:57"
+  },
+  {
+    "title": "SpaceX、NASDAQに上場――公開価格135ドル、初日終値は約19％高で約12兆円調達",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/13/news024.html",
+    "summary": "SpaceXがNASDAQに上場。公開価格135ドル、初日は約19%高で、報道では約12兆円規模の調達となった。宇宙ビジネスと資本市場に大きな影響を与える上場だ。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "大規模な上場は宇宙産業の資金調達環境や競争構造、投資マネーの流れに広範な影響を及ぼすため重要。",
+    "published_at": "2026-06-13 06:34:00",
+    "created_at": "2026-06-14 01:50:57"
+  },
+  {
     "title": "厚労省、Teamsチャット2年10カ月分が消失　東芝が作業ミス　一部は復元困難",
     "url": "https://www.itmedia.co.jp/news/articles/2606/12/news129.html",
     "summary": "厚労省のTeamsチャット約2年10カ月分が東芝の作業ミスで消失。一部は復元困難とされ、業務記録や監査、個人情報の扱いに影響が出る可能性がある。",
@@ -1090,16 +1120,6 @@
     "created_at": "2026-05-15 05:49:28"
   },
   {
-    "title": "「Android 17」に複数の新機能　銀行を装った詐欺電話の自動切断や“10秒待機”でアプリの使いすぎ防止も",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news101.html",
-    "summary": "Android 17で詐欺電話の自動切断やアプリ使用制限の新機能などが導入予定。ユーザー保護や操作性の改善が狙いで、開発者向けAPI変更も含まれる見込み。スマートフォン利用の安全性・UXに影響。",
-    "importance": 3,
-    "category": "その他",
-    "reason": "主要モバイルOSの新機能は広範なユーザーと開発者に影響するが新製品としての性質から重要度は中程度。",
-    "published_at": "2026-05-14 14:45:00",
-    "created_at": "2026-05-15 05:49:28"
-  },
-  {
     "title": "ChatGPTの医療アドバイスで薬を過剰摂取、米国で19歳大学生が死亡　遺族がOpenAI提訴",
     "url": "https://www.itmedia.co.jp/news/articles/2605/14/news054.html",
     "summary": "ChatGPTからの医療アドバイスを受けた利用者が薬を過剰摂取し死亡、遺族がOpenAIを提訴。AIの安全性・責任問題が法廷で問われる事態に。医療分野でのAI利用ルール整備の議論を加速させる可能性。",
@@ -1117,16 +1137,6 @@
     "category": "ビジネス",
     "reason": "国家レベルの研究投資拡大は産業・研究体制全体に長期的影響を及ぼすため業界注目の政策。",
     "published_at": "2026-05-14 11:05:00",
-    "created_at": "2026-05-15 05:49:28"
-  },
-  {
-    "title": "AIブームでクラウドインフラ市場が年35％の急成長　上位3社のシェアには変動なし　2026年第1四半期、Synergy Research調査",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/14/news077.html",
-    "summary": "Synergy ResearchはAI需要でクラウドインフラ市場が年率約35％成長と報告。市場拡大は顕著だが、上位3社のシェア構造は維持。クラウド事業者の投資・競争戦略に示唆を与える結果。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "クラウド市場の急成長はAI普及に直結し企業投資や事業戦略に影響するため注目度高いが既報範囲の分析。",
-    "published_at": "2026-05-14 10:41:00",
     "created_at": "2026-05-15 05:49:28"
   },
   {
