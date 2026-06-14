@@ -1,5 +1,15 @@
 [
   {
+    "title": "Amazon、Anthropicの最新AIについて懸念を伝えていた　米政権による停止命令に先立ち　関係筋",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/14/news019.html",
+    "summary": "関係筋によると、AmazonはAnthropicの最新AIに関して米政府へ懸念を伝えていた。これは米政権がAnthropicへの停止命令を出す前の動きで、主要クラウド事業者とAI企業、規制当局の関係に影響を与える可能性がある。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要企業間の摩擦と規制介入が示され、AIビジネスや競争環境、政策に広く影響しうるため",
+    "published_at": "2026-06-14 18:20:00",
+    "created_at": "2026-06-15 01:48:10"
+  },
+  {
     "title": "DAZNが謝罪　年間契約のサッカープランに一部「月額プランと受け取れる記載」があったため　希望者は解約も",
     "url": "https://www.itmedia.co.jp/news/articles/2606/13/news031.html",
     "summary": "DAZNが年間契約のサッカープラン表記について誤解を招く記載があったとして謝罪。希望者には解約対応を案内している。",
@@ -1060,16 +1070,6 @@
     "created_at": "2026-05-17 03:10:53"
   },
   {
-    "title": "Spotify、Appleの「HLS」対応で動画ポッドキャストのクロスプラットフォーム配信を実現へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news077.html",
-    "summary": "SpotifyがAppleのHLSに対応し、動画ポッドキャストのクロスプラットフォーム配信を可能にする方針。配信者と視聴環境の互換性が向上する見込み。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "配信フォーマットの共通化によりプラットフォーム間の流通が変わり、クリエイターや配信事業に実務的影響を与えるため。",
-    "published_at": "2026-05-15 11:36:00",
-    "created_at": "2026-05-16 05:09:13"
-  },
-  {
     "title": "OpenAI、サプライチェーン攻撃で従業員2人の端末が侵害　macOSユーザーは6月12日までにアプリ更新を",
     "url": "https://www.itmedia.co.jp/news/articles/2605/15/news075.html",
     "summary": "OpenAIがサプライチェーン攻撃を受け、従業員2人の端末が侵害されたと発表。影響を受けた経路を特定中で、macOSユーザーには6月12日までにアプリ更新を促している。",
@@ -1087,26 +1087,6 @@
     "category": "法規制",
     "reason": "AIの学習データ利用を巡る法的・規制的な攻防で、業界ルールやビジネスモデルに影響を与えるため。",
     "published_at": "2026-05-15 10:17:00",
-    "created_at": "2026-05-16 05:09:13"
-  },
-  {
-    "title": "AIデータセンター建設に米国民の7割が反対──Gallup調べ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news066.html",
-    "summary": "Gallupの調査で、米国民の約7割がAIデータセンターの建設に反対していることが判明。環境・地域影響への懸念が背景とみられる。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "インフラ建設に対する強い世論は政策や施設立地、企業の展開戦略に直接影響を与えうるため。",
-    "published_at": "2026-05-15 09:44:00",
-    "created_at": "2026-05-16 05:09:13"
-  },
-  {
-    "title": "Anthropicとゲイツ財団が提携　AIによる社会貢献に2億ドル拠出",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/15/news064.html",
-    "summary": "Anthropicとビル＆メリンダ・ゲイツ財団が提携し、社会貢献向けのAI活動に2億ドルを提供する計画を発表。研究・実装支援が目的。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "大規模資金と影響力ある団体の連携で、AIの社会用途や研究資金配分に影響を及ぼす可能性が高いため。",
-    "published_at": "2026-05-15 08:42:00",
     "created_at": "2026-05-16 05:09:13"
   },
   {
