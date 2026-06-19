@@ -1,5 +1,55 @@
 [
   {
+    "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場　出力は「Premiere」「DaVinci」でも読み込み可",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news119.html",
+    "summary": "会話形式で動画編集を行えるオープンソースの映像ソフトが登場。編集結果はPremiereやDaVinci等と互換性があり、クリエイターのワークフローを変えうる可能性がある。開発と普及の動向に注目。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "オープンソース×LLMでクリエイティブ制作の自動化に直接関わるため、多くの制作者に有用なニュースとして選定。",
+    "published_at": "2026-06-19 18:20:00",
+    "created_at": "2026-06-20 02:27:58"
+  },
+  {
+    "title": "Photoshopなど「Adobe Creative Cloud」にAIエージェント、アドビが全面導入　ChatGPTやClaudeとも連携",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news110.html",
+    "summary": "AdobeがCreative Cloud全体にAIエージェントを導入。Photoshopなどの主要アプリに組み込み、ChatGPTやClaudeなど外部LLMとも連携する。クリエイティブワークフローの変化と業界競争に影響する発表。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要クリエイティブプラットフォームでAIを全面導入、ワークフローと競争環境に広範な影響があるため選定。",
+    "published_at": "2026-06-19 15:45:00",
+    "created_at": "2026-06-20 02:27:58"
+  },
+  {
+    "title": "画面操作を“録画”→AIが作業代行　Codexに新機能「Record & Replay」",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+    "summary": "Codexに画面操作を録画してAIに再生・自動化させる「Record & Replay」機能が追加。RPAやデスクトップ自動化の容易化、業務効率化への応用が期待される。セキュリティや運用面の議論も必要。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "UI操作の自動化をLLMで容易にする機能は業務自動化に直結するため選定。",
+    "published_at": "2026-06-19 14:15:00",
+    "created_at": "2026-06-20 02:27:58"
+  },
+  {
+    "title": "東北大、4月の不正アクセスに続報　連絡取れない元入院患者・治験医師に申し出呼びかけ",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news092.html",
+    "summary": "東北大学が4月に発生した不正アクセスの続報を発表。連絡が取れていない元入院患者や治験参加医師に対し申し出を呼びかけている。医療データ流出の可能性と対応の進捗が焦点。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "医療関連の不正アクセスは個人情報・医療倫理に関わる重要なセキュリティ問題であるため選定。",
+    "published_at": "2026-06-19 13:00:00",
+    "created_at": "2026-06-20 02:27:58"
+  },
+  {
+    "title": "Waymo、ロボタクシーの高速道路走行を制限　工事区間に進入する不具合でリコール届け出",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/19/news082.html",
+    "summary": "Waymoがロボタクシーの高速道路走行を制限。工事区間に誤進入する不具合を受け、リコールを届け出した。自動運転サービスの安全性と規制対応に関わる重大な対応。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大手自動運転事業者の安全関連の制限とリコールは業界・規制に影響するため優先選出。",
+    "published_at": "2026-06-19 10:36:00",
+    "created_at": "2026-06-20 02:27:58"
+  },
+  {
     "title": "慶応大や成城大のサイトから「W杯 無料視聴」ページへ勝手に転送　海保に続き……原因は？",
     "url": "https://www.itmedia.co.jp/news/articles/2606/18/news125.html",
     "summary": "慶応大学や成城大学の公式サイトが外部の「W杯 無料視聴」ページへ勝手に転送される事象が発生。大学サイトの改ざんや外部スクリプトの不正利用が疑われ、他の公的・教育機関サイトへの波及も懸念される。原因調査と対策の必要性が高い。",
@@ -1150,16 +1200,6 @@
     "created_at": "2026-05-21 06:27:13"
   },
   {
-    "title": "Google、AIが価格監視や決済最適化を自動で行う「Universal Cart」発表",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/20/news102.html",
-    "summary": "Googleが小売・EC向けに、AIで価格監視や決済最適化を自動化する『Universal Cart』を発表。購入体験の一元化と自動化で小売業・広告・決済の競争構造に変化をもたらす可能性がある。",
-    "importance": 3,
-    "category": "ビジネス",
-    "reason": "購買フローの自動化は小売業や広告・決済プラットフォームの構造に影響し、事業側の戦略に関わるため。",
-    "published_at": "2026-05-20 14:41:00",
-    "created_at": "2026-05-21 06:27:13"
-  },
-  {
     "title": "Google、パーソナルAIエージェント「Gemini Spark」発表――デバイスを閉じても自律で働く",
     "url": "https://www.itmedia.co.jp/news/articles/2605/20/news068.html",
     "summary": "Googleがデバイスを閉じた状態でも自律的に動作するパーソナルAIエージェント『Gemini Spark』を発表。常時稼働やバックグラウンドでの処理が可能になり、プライバシーやバッテリー、プラットフォーム戦略に関する議論を呼びそうだ。",
@@ -1177,16 +1217,6 @@
     "category": "AI",
     "reason": "世界的プラットフォームであるGoogle検索の機能転換は検索行動、広告市場、開発者・ビジネス戦略に広く影響するため。",
     "published_at": "2026-05-20 06:08:00",
-    "created_at": "2026-05-21 06:27:13"
-  },
-  {
-    "title": "Appleが5年がかりで開発したセキュリティ対策を5日で突破　「Mythos」が見せつけた脆弱性攻撃の威力",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/19/news100.html",
-    "summary": "Appleの長年のセキュリティ対策が、攻撃グループ『Mythos』により短期間で突破されたと報告。高度な脆弱性攻撃の実態と影響、プラットフォーム防御の限界が浮き彫りになっている。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "主要プラットフォームの防御が短期間で破られた事例は、デバイス安全性と開発・運用の見直しを促すため選定。",
-    "published_at": "2026-05-20 06:00:00",
     "created_at": "2026-05-21 06:27:13"
   },
   {
