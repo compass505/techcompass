@@ -1,5 +1,55 @@
 [
   {
+    "title": "スパコン世界ランキング、中国が8年半ぶり首位奪還　「LineShine」1位に　富岳は9位",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/23/news135.html",
+    "summary": "最新のスパコン世界ランキング（TOP500）で中国の「LineShine」が首位を奪還。日本の富岳は9位に後退し、スーパーコンピューティング勢力図が変化した。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "計算力競争やAI研究基盤、国家レベルの技術力を示す指標であり、半導体・AIインフラの競争に影響するため",
+    "published_at": "2026-06-23 20:30:00",
+    "created_at": "2026-06-24 02:22:45"
+  },
+  {
+    "title": "メルカリ、ChatGPT上で商品検索から出品準備まで可能に　「Apps in ChatGPT」に公式アプリ",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/23/news134.html",
+    "summary": "メルカリがChatGPTの「Apps in ChatGPT」に公式アプリを提供。ChatGPT上で商品検索や出品準備ができるようになり、プラットフォーム連携を強化する。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要C2CプラットフォームのLLMプラットフォーム統合で、eコマースの発見・出品フローに影響しうるため",
+    "published_at": "2026-06-23 20:09:00",
+    "created_at": "2026-06-24 02:22:45"
+  },
+  {
+    "title": "KDDI、メアドなど最大1422万件漏えいか　ISP事業者向けシステムに不正アクセス",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/23/news114.html",
+    "summary": "KDDIのISP事業者向けシステムに不正アクセスがあり、メールアドレスなど最大約1422万件が漏えいした可能性があると発表。調査と影響通知を進めている。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "通信事業者の大規模個人情報流出で影響範囲が極めて広く、プライバシー・サービス信頼に重大な影響があるため",
+    "published_at": "2026-06-23 16:14:00",
+    "created_at": "2026-06-24 02:22:45"
+  },
+  {
+    "title": "トランプ大統領、耐量子暗号（PQC）移行を義務付ける大統領令に署名　2030年末期限",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/23/news103.html",
+    "summary": "トランプ米大統領が耐量子暗号（PQC）への移行を義務付ける大統領令に署名。連邦機関などに2030年末までの移行期限を設定した。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "政府主導で暗号基盤の大規模移行を義務化する政策で、サプライチェーン・セキュリティに広範な影響が及ぶため",
+    "published_at": "2026-06-23 14:08:00",
+    "created_at": "2026-06-24 02:22:45"
+  },
+  {
+    "title": "OpenAI、Getty Imagesと複数年契約　ChatGPTの検索結果にライセンス画像を直接表示",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/23/news075.html",
+    "summary": "OpenAIがGetty Imagesと複数年の契約を締結。ChatGPTの検索結果にGettyのライセンス画像を直接表示できるようになると報じられた。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "生成AIサービスと既存メディアのライセンス合意で、著作権処理や商用利用の前例となる可能性が高いため",
+    "published_at": "2026-06-23 07:46:00",
+    "created_at": "2026-06-24 02:22:45"
+  },
+  {
     "title": "「特定在留カード」運用開始、マイナカードと一体化　外国人の利便性向上へ",
     "url": "https://www.itmedia.co.jp/news/articles/2606/22/news147.html",
     "summary": "外国人向けの在留カードとマイナンバーカードを一体化する「特定在留カード」の運用が始まる。行政手続きの利便性向上を図る一方、ID統合による個人情報管理やプライバシーの懸念も指摘される。",
