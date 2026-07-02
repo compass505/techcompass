@@ -1,5 +1,55 @@
 [
   {
+    "title": "復活した「Fable 5」　米政府からのオーダーに対して、Anthropicはどう対策したのか",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
+    "summary": "米政府からの要請・命令に対し、AnthropicがどのようにFable 5を再設計・復活させたかを解説。安全性やガバナンス対応の具体策が示され、業界の規制対応のあり方に示唆を与える。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "政府の介入に対する企業の技術的・組織的対応で、AI安全性・規制対応の前例となり得るため業界影響が大きい",
+    "published_at": "2026-07-02 16:40:00",
+    "created_at": "2026-07-03 02:02:39"
+  },
+  {
+    "title": "LINEとPayPay、26年夏にアカウント連携　トーク上で送金・割り勘可能に　LINEポイントは統合へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/02/news097.html",
+    "summary": "LINEとPayPayがアカウント連携し、トーク画面で送金や割り勘が可能に。LINEポイントの統合も予定され、国内決済・フィンテック競争に影響を与える動き。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "国内主要プラットフォーム同士の統合で決済エコシステムやユーザー行動に広く影響するため重要",
+    "published_at": "2026-07-02 16:37:00",
+    "created_at": "2026-07-03 02:02:39"
+  },
+  {
+    "title": "「端末からSuicaが消えた」対処法は　JR東「モバイルSuica」2日朝もアクセスしづらく",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/02/news074.html",
+    "summary": "一部ユーザーの端末からモバイルSuicaが消える、アクセスしづらいといった障害が発生。JR東日本の状況説明と利用者向けの対処法を紹介している。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "交通インフラに直結する決済サービスの障害で利用者影響が大きく、運用・復旧対応が重要なため",
+    "published_at": "2026-07-02 12:10:00",
+    "created_at": "2026-07-03 02:02:39"
+  },
+  {
+    "title": "Googleの「Gemini Spark」がmacOSに対応──Canvaなど外部アプリとの連携も",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/02/news058.html",
+    "summary": "GoogleのGemini SparkがmacOS対応を発表し、Canvaなど外部アプリとの連携も可能に。生成AIの利用環境が拡大し、デスクトップでの統合的なワークフローが進む。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "主要AIモデルのプラットフォーム対応拡大はユーザー・開発者の利用形態に影響するが市場構造を即座に変えるほどではない",
+    "published_at": "2026-07-02 09:13:00",
+    "created_at": "2026-07-03 02:02:39"
+  },
+  {
+    "title": "AIに「相手に電気ショックを与えろ」と命じ続けたらボタンを押すのか？　11のLLMで“ミルグラム実験”　抵抗できたのは……",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/02/news029.html",
+    "summary": "11種類の大規模言語モデルを対象に、従順性を測る“ミルグラム実験”を実施。モデルごとの抵抗力や命令への服従性の違いを検証し、AIの危険性・安全設計の課題を浮き彫りにする。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "LLMの行動特性に関する実証的知見で、開発・運用方針や安全規制議論に直接関係するため重要",
+    "published_at": "2026-07-02 08:00:00",
+    "created_at": "2026-07-03 02:02:39"
+  },
+  {
     "title": "ソフトバンクG、OpenAIに1兆6273億円の追加出資　第3弾は10月に",
     "url": "https://www.itmedia.co.jp/news/articles/2607/01/news139.html",
     "summary": "ソフトバンクグループがOpenAIに対し1兆6273億円の追加出資を行うと発表。これが第3弾の出資で、実行は10月を予定している。資本関係の拡大はOpenAIの経営・競争環境に影響を与える可能性が高い。",
@@ -1150,26 +1200,6 @@
     "created_at": "2026-06-04 08:09:41"
   },
   {
-    "title": "女性向け転職サイトで3万8000件の不正ログイン　「女の転職type」にリスト型攻撃",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/02/news077.html",
-    "summary": "求人サイト『女の転職type』で約3万8000件の不正ログインが発生。リスト型攻撃（credential stuffing）が原因とされ、影響を受けたユーザーの情報漏えいや不正利用の懸念がある。サービス側の対策強化が課題となる。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "多数のアカウントが被害に遭っており、認証強化や二段階認証の重要性を示す具体的な事例であるため。",
-    "published_at": "2026-06-02 12:20:00",
-    "created_at": "2026-06-03 07:53:05"
-  },
-  {
-    "title": "AWS、他クラウドと500Mbpsまでの接続が無料に 「AWS Interconnect - multicloud」に無料枠が登場",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/02/news085.html",
-    "summary": "AWSがマルチクラウド接続サービスに500Mbpsまでの無料枠を追加。クラウド間通信コストの構造を変え、マルチクラウド戦略の採用やコスト最適化に影響を与える可能性がある。競合クラウドへの囲い込み戦略の一環と見られる。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "主要クラウド事業者の料金政策変更でマルチクラウド採用や事業戦略に直接影響しうるため。",
-    "published_at": "2026-06-02 12:06:00",
-    "created_at": "2026-06-03 07:53:05"
-  },
-  {
     "title": "Google擁するAlphabet、AI基盤増強に向け800億ドルの株式調達へ",
     "url": "https://www.itmedia.co.jp/news/articles/2606/02/news066.html",
     "summary": "AlphabetがAI基盤強化のために800億ドル規模の株式調達を計画。大規模な資本投入でデータセンターやAIチップなどインフラ投資を加速するとみられる。クラウド競争や市場資本政策に大きな影響を与える可能性がある。",
@@ -1187,16 +1217,6 @@
     "category": "法規制",
     "reason": "州による訴訟はAI製品の法的責任・規制の先例になり得、業界と政策に広範な影響を及ぼすため。",
     "published_at": "2026-06-02 07:18:00",
-    "created_at": "2026-06-03 07:53:05"
-  },
-  {
-    "title": "Anthropicが上場申請",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/02/news062.html",
-    "summary": "AIスタートアップのAnthropicが上場を申請。主要な生成AIプレイヤーの上場は資金調達、市場評価、競争環境に影響を与え、AI産業の資本市場動向を左右する重要な出来事となる。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "有力なAI企業の上場は業界の資金流入と競争構造に影響を与えるため注目度が高い。",
-    "published_at": "2026-06-02 06:20:00",
     "created_at": "2026-06-03 07:53:05"
   },
   {
