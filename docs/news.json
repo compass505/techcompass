@@ -1,5 +1,55 @@
 [
   {
+    "title": "Anthropic、Samsungと独自AIチップで協議か　報道受けNVIDIAなど半導体関連株が下落",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news101.html",
+    "summary": "AIベンチャーAnthropicがSamsungと独自AIチップについて協議したと報道。NVIDIAなど既存のAIチップ業界に競争圧力がかかり、関連株価が下落した。\nAI推論ハードのサプライチェーンと競争環境に影響する可能性がある動き。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "Anthropicのハード選択がNVIDIA中心のAIチップ市場構造に波及する可能性があるため",
+    "published_at": "2026-07-03 13:36:00",
+    "created_at": "2026-07-04 01:47:19"
+  },
+  {
+    "title": "Cloudflare、AIクローラー制御を全顧客に開放──「検索」「エージェント」「学習」の3分類で管理可能に",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news087.html",
+    "summary": "CloudflareがAI向けクローラーの挙動を「検索」「エージェント」「学習」の3分類で制御できる機能を全顧客に開放。\nWeb運営者がAIによるデータ収集や学習用途を明確に管理できるようになる。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "ウェブ上のデータ収集とAI学習の制御という業界横断的な課題に対する実用的な対策だから",
+    "published_at": "2026-07-03 10:55:00",
+    "created_at": "2026-07-04 01:47:19"
+  },
+  {
+    "title": "Amazonの衛星ブロードバンド「Leo」、打ち上げ300基突破で世界3位の規模に",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news083.html",
+    "summary": "Amazonの衛星ブロードバンド計画Leoが打ち上げ300基を突破し、規模で世界3位となった。\n衛星インターネットの競争激化とグローバルな接続インフラの選択肢拡大につながる動き。",
+    "importance": 3,
+    "category": "クラウド",
+    "reason": "衛星ブロードバンドの拡大はネットワークインフラとクラウド接続環境に影響があるため",
+    "published_at": "2026-07-03 10:29:00",
+    "created_at": "2026-07-04 01:47:19"
+  },
+  {
+    "title": "NVIDIA、AIインフラ調達の新ビジネスモデル発表　収益分配で新興企業を支援",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news077.html",
+    "summary": "NVIDIAがAIインフラ調達の新モデルを発表し、収益分配を通じて新興企業のインフラ導入を支援する仕組みを提示。\nハード／クラウド調達の構造やスタートアップの資金負担に影響を与える可能性がある。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "AIインフラ調達のビジネスモデルを変えうる動きで、業界の投資や競争に影響するため",
+    "published_at": "2026-07-03 09:39:00",
+    "created_at": "2026-07-04 01:47:19"
+  },
+  {
+    "title": "Microsoft、AI導入支援組織「Microsoft Frontier Company」設立　6000人体制で顧客企業を支援",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news067.html",
+    "summary": "Microsoftが顧客のAI導入を支援する新組織「Microsoft Frontier Company」を設立、約6000人規模で支援体制を構築。\n大手クラウド事業者としての導入支援強化により、企業のAI導入競争が加速しそうだ。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "大手クラウド事業者の組織的支援強化は企業のAI導入動向と競争環境に直結するため",
+    "published_at": "2026-07-03 06:37:00",
+    "created_at": "2026-07-04 01:47:19"
+  },
+  {
     "title": "復活した「Fable 5」　米政府からのオーダーに対して、Anthropicはどう対策したのか",
     "url": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
     "summary": "米政府からの要請・命令に対し、AnthropicがどのようにFable 5を再設計・復活させたかを解説。安全性やガバナンス対応の具体策が示され、業界の規制対応のあり方に示唆を与える。",
@@ -1148,26 +1198,6 @@
     "reason": "検索プラットフォームの表示制御はWebエコシステムとコンテンツ産業に直接影響するプラットフォーム政策の変化。",
     "published_at": "2026-06-04 10:07:00",
     "created_at": "2026-06-05 06:18:38"
-  },
-  {
-    "title": "Androidに「なりすまし電話」検知機能　AIディープフェイク詐欺の急増に対応──Pixelから順次提供",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news137.html",
-    "summary": "AndroidにAIを用いた「なりすまし電話」検知機能が導入される。ディープフェイク音声を使った詐欺の増加を受け、まずPixel端末から順次提供される予定。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "音声ディープフェイク詐欺への実装対策として、広範なユーザーの安全に関わる機能追加であり普及が注目される。",
-    "published_at": "2026-06-03 20:20:00",
-    "created_at": "2026-06-04 08:09:41"
-  },
-  {
-    "title": "Microsoft、AIエージェント用のカスタマイズ可能な分離環境「Microsoft Execution Containers」発表　OpenClawも動作",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/03/news074.html",
-    "summary": "MicrosoftがAIエージェント向けにカスタマイズ可能な分離環境『Microsoft Execution Containers』を発表。エージェントの安全な実行やサンドボックス化に資するインフラを提示した。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "AIエージェント運用の安全性・隔離技術に関するプラットフォーム的発表で、開発・運用側に影響を与える可能性が高い。",
-    "published_at": "2026-06-03 11:02:00",
-    "created_at": "2026-06-04 08:09:41"
   },
   {
     "title": "気象庁「線状降水帯情報」不具合で発表できず　運用開始わずか5日",
