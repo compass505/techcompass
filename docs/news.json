@@ -1,5 +1,55 @@
 [
   {
+    "title": "「ドコモの銀行」誕生へ　住信SBIネット銀行の社名変更で　法人向けは「NEOBANK」維持",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/09/news132.html",
+    "summary": "住信SBIネット銀行が社名変更し、個人向けに『ドコモの銀行』を立ち上げる見込み。法人向けは既存ブランド『NEOBANK』を維持するという。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "通信大手と銀行のブランド統合はフィンテック競争や顧客接点の再編につながるため、業界・利用者に影響が大きい。",
+    "published_at": "2026-07-09 17:58:00",
+    "created_at": "2026-07-10 02:27:39"
+  },
+  {
+    "title": "三菱自動車、国産ヒューマノイド量産へ　東大発スタートアップと合意　27年後半に月産1000台目指す",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
+    "summary": "三菱自動車が東大発スタートアップと協業し、国産ヒューマノイドの量産化に合意。2027年後半に月産1000台を目標とする計画を発表した。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "自動車大手の量産体制参入はロボティクス産業の競争とサプライチェーンに広範な波及効果をもたらす可能性があるため。",
+    "published_at": "2026-07-09 16:55:00",
+    "created_at": "2026-07-10 02:27:39"
+  },
+  {
+    "title": "「快活CLUB」へのサイバー攻撃、18歳男を新たに逮捕　ChatGPT製プログラムを使用　グループには当時小6も　報道",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/09/news103.html",
+    "summary": "快活CLUBを標的としたサイバー攻撃で、ChatGPTが作成したプログラムを使用したとして18歳の男が逮捕。関与グループに当時小学生もいたと報道される。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "生成AIを悪用したサイバー攻撃と未成年の関与が示された点は、犯罪手法の変化と対策の必要性を示すため注目に値する。",
+    "published_at": "2026-07-09 13:44:00",
+    "created_at": "2026-07-10 02:27:39"
+  },
+  {
+    "title": "Meta、AIグラスの「盗撮改造」対策を強化──録画ランプ破壊で撮影不能に",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/09/news085.html",
+    "summary": "MetaがAIグラスで録画ランプを破壊しても撮影を続けられないよう改良するなど、盗撮目的の改造対策を強化する方針を示した。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "ウェアラブルの録画・プライバシー問題に対するメーカー側の技術的対策は、消費者保護と製品設計の標準化に影響するため重要。",
+    "published_at": "2026-07-09 11:01:00",
+    "created_at": "2026-07-10 02:27:39"
+  },
+  {
+    "title": "Apple、Broadcomとの新契約は「300億ドル超」──米国製チップ150億個以上を生産へ",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/09/news068.html",
+    "summary": "AppleがBroadcomと300億ドル超の大型契約を結び、米国製チップを150億個以上生産する計画を進める。米国内での半導体調達を大幅に拡大する狙い。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "大手プラットフォーマーによる米国内での大量発注は半導体供給網と製造の地政学・産業構造に影響するため重要。",
+    "published_at": "2026-07-09 07:31:00",
+    "created_at": "2026-07-10 02:27:39"
+  },
+  {
     "title": "小中で「情報」新設、先行実施へ　AI発達にらむ　次期学習指導要領、授業時数は現行維持",
     "url": "https://www.itmedia.co.jp/news/articles/2607/08/news156.html",
     "summary": "次期学習指導要領で小中学校に「情報」科目を新設、AI進展を踏まえて先行実施を検討。授業時数は現行を維持する見込み。",
@@ -247,16 +297,6 @@
     "category": "ビジネス",
     "reason": "交通インフラに直結する決済サービスの障害で利用者影響が大きく、運用・復旧対応が重要なため",
     "published_at": "2026-07-02 12:10:00",
-    "created_at": "2026-07-03 02:02:39"
-  },
-  {
-    "title": "Googleの「Gemini Spark」がmacOSに対応──Canvaなど外部アプリとの連携も",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/02/news058.html",
-    "summary": "GoogleのGemini SparkがmacOS対応を発表し、Canvaなど外部アプリとの連携も可能に。生成AIの利用環境が拡大し、デスクトップでの統合的なワークフローが進む。",
-    "importance": 2,
-    "category": "AI",
-    "reason": "主要AIモデルのプラットフォーム対応拡大はユーザー・開発者の利用形態に影響するが市場構造を即座に変えるほどではない",
-    "published_at": "2026-07-02 09:13:00",
     "created_at": "2026-07-03 02:02:39"
   },
   {
@@ -1070,16 +1110,6 @@
     "created_at": "2026-06-11 03:11:25"
   },
   {
-    "title": "企業の口座を狙うボイスフィッシングが巧妙化　日本サイバー犯罪対策センターが注意喚起",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news130.html",
-    "summary": "企業の銀行口座を狙う手口として、音声合成やなりすましを用いたボイスフィッシングが巧妙化。日本サイバー犯罪対策センターが注意喚起と対策の周知を促した。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "企業の資金被害に直結する手口の高度化は業務対策やセキュリティ強化の必要性を高め、多くの企業に関係するため重要。",
-    "published_at": "2026-06-09 19:45:00",
-    "created_at": "2026-06-10 02:31:38"
-  },
-  {
     "title": "Apple、「Private Cloud Compute」（PCC）でGoogle Cloud上のNVIDIA GPUを活用",
     "url": "https://www.itmedia.co.jp/news/articles/2606/09/news117.html",
     "summary": "AppleがPrivate Cloud ComputeでGoogle CloudのNVIDIA GPUを活用すると発表。自社AI機能向けに外部クラウド／GPUリソースを採用する戦略を示す。クラウド間協業とAIインフラ競争に示唆。",
@@ -1087,16 +1117,6 @@
     "category": "クラウド",
     "reason": "主要プラットフォーム企業が他社クラウドとGPUを組み合せる決定は、クラウド市場とAIインフラの競争環境に影響するため重要。",
     "published_at": "2026-06-09 17:06:00",
-    "created_at": "2026-06-10 02:31:38"
-  },
-  {
-    "title": "Google「AI Plus」4割値下げ、月725円に　ストレージ倍増、価格攻勢でシェア拡大へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/09/news077.html",
-    "summary": "GoogleがAI Plusの価格を約4割値下げし月725円に。ストレージ増量などサービス強化で価格競争を仕掛け、ユーザー獲得を狙う動き。AIサブスク市場の競争激化を示す。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "主要プレーヤーによる価格・機能の競争はAIサービスの普及と市場構造に影響するため掲載価値が高い。",
-    "published_at": "2026-06-09 11:07:00",
     "created_at": "2026-06-10 02:31:38"
   },
   {
