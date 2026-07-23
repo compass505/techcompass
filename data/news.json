@@ -1,5 +1,55 @@
 [
   {
+    "title": "米政府、中国AI「Kimi K3」開発元を批判　Anthropic「Fable」を蒸留したとして",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/23/news105.html",
+    "summary": "米政府が中国製AI「Kimi K3」開発元を批判、Anthropicのモデル「Fable」を蒸留した疑いを指摘している。知的財産やモデル再利用、国家間のAI開発競争と安全性の問題が絡む論点だ。規制・外交面での影響やAIガバナンス議論を促す可能性がある。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "国際的なAI競争と知財・安全性の問題に関わり、規制・政策議論に影響するため",
+    "published_at": "2026-07-23 15:35:00",
+    "created_at": "2026-07-24 01:49:27"
+  },
+  {
+    "title": "PayPayとセブン-イレブン、顧客ID統合か　1億超のID基盤誕生へ　複数報道",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/23/news104.html",
+    "summary": "PayPayとセブン-イレブンが顧客ID基盤の統合を検討しており、統合で1億件超のIDを持つ巨大基盤が生まれる可能性があると報道。決済・ポイント・マーケティングでの優位性と、個人情報保護や競争面の懸念がある。利用者の利便性とプライバシーリスクが交錯する。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "国内の決済・ID基盤の大規模統合は市場競争とプライバシーに直接影響するため",
+    "published_at": "2026-07-23 15:10:00",
+    "created_at": "2026-07-24 01:49:27"
+  },
+  {
+    "title": "「クレカが使えない！」　16日朝の大規模障害を引き起こした「Cybersource」とは何者か",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/23/news053.html",
+    "summary": "16日朝に発生した大規模なクレジットカード決済障害の原因として、決済プロバイダCybersourceが取り上げられている。決済チェーンの単一障害点やガバナンスの脆弱性が改めて浮き彫りになった。事業者側の業務継続や利用者への影響が問題視される。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "決済インフラの障害は広範な利用者・事業者に影響し、運用・冗長化の教訓を与えるため",
+    "published_at": "2026-07-23 12:00:00",
+    "created_at": "2026-07-24 01:49:27"
+  },
+  {
+    "title": "Google親会社Alphabet、AI需要で24％増収　設備投資は倍増の449億ドル",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/23/news066.html",
+    "summary": "AlphabetがAI需要を背景に収益を大幅増加させ、設備投資を前年から倍増させたと報告。データセンターやAI専用ハードへの大規模投資が続いており、クラウドや半導体市場への需要加速を示す。投資規模は業界のキャパシティ拡大を後押しする。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "主要プレーヤーの大規模投資でAIインフラ需要とサプライチェーンに広範な影響を与えるため",
+    "published_at": "2026-07-23 07:45:00",
+    "created_at": "2026-07-24 01:49:27"
+  },
+  {
+    "title": "AMDとAnthropicが戦略的提携　「Helios」を最大2GW導入、最大50億ドルの出資も",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/23/news063.html",
+    "summary": "AMDとAI企業Anthropicが大規模戦略提携。AnthropicのHeliosデータセンター向けに最大2GWの電力供給を含むインフラ導入を想定し、AMDは最大50億ドルの出資を行う可能性がある。AI向けハードウェア・資本面での大きな連携で、半導体需給やクラウド競争に影響し得る。",
+    "importance": 4,
+    "category": "半導体",
+    "reason": "AIインフラと半導体需給に広く波及する大規模提携で業界動向を左右するため",
+    "published_at": "2026-07-23 06:55:00",
+    "created_at": "2026-07-24 01:49:27"
+  },
+  {
     "title": "韓国外交官「ほぼ全員」の情報流出か　国立外交院への不正アクセスで最大1万件　現地報道",
     "url": "https://www.itmedia.co.jp/news/articles/2607/22/news108.html",
     "summary": "韓国の国立外交院が不正アクセスを受け、外交官ほぼ全員に相当する最大約1万件の情報が流出した可能性が報道された。国家機密や外交関係者の個人情報流出の懸念がある。",
@@ -1010,26 +1060,6 @@
     "created_at": "2026-06-25 02:21:32"
   },
   {
-    "title": "スパコン世界ランキング、中国が8年半ぶり首位奪還　「LineShine」1位に　富岳は9位",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/23/news135.html",
-    "summary": "最新のスパコン世界ランキング（TOP500）で中国の「LineShine」が首位を奪還。日本の富岳は9位に後退し、スーパーコンピューティング勢力図が変化した。",
-    "importance": 3,
-    "category": "半導体",
-    "reason": "計算力競争やAI研究基盤、国家レベルの技術力を示す指標であり、半導体・AIインフラの競争に影響するため",
-    "published_at": "2026-06-23 20:30:00",
-    "created_at": "2026-06-24 02:22:45"
-  },
-  {
-    "title": "メルカリ、ChatGPT上で商品検索から出品準備まで可能に　「Apps in ChatGPT」に公式アプリ",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/23/news134.html",
-    "summary": "メルカリがChatGPTの「Apps in ChatGPT」に公式アプリを提供。ChatGPT上で商品検索や出品準備ができるようになり、プラットフォーム連携を強化する。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "主要C2CプラットフォームのLLMプラットフォーム統合で、eコマースの発見・出品フローに影響しうるため",
-    "published_at": "2026-06-23 20:09:00",
-    "created_at": "2026-06-24 02:22:45"
-  },
-  {
     "title": "KDDI、メアドなど最大1422万件漏えいか　ISP事業者向けシステムに不正アクセス",
     "url": "https://www.itmedia.co.jp/news/articles/2606/23/news114.html",
     "summary": "KDDIのISP事業者向けシステムに不正アクセスがあり、メールアドレスなど最大約1422万件が漏えいした可能性があると発表。調査と影響通知を進めている。",
@@ -1047,16 +1077,6 @@
     "category": "法規制",
     "reason": "政府主導で暗号基盤の大規模移行を義務化する政策で、サプライチェーン・セキュリティに広範な影響が及ぶため",
     "published_at": "2026-06-23 14:08:00",
-    "created_at": "2026-06-24 02:22:45"
-  },
-  {
-    "title": "OpenAI、Getty Imagesと複数年契約　ChatGPTの検索結果にライセンス画像を直接表示",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/23/news075.html",
-    "summary": "OpenAIがGetty Imagesと複数年の契約を締結。ChatGPTの検索結果にGettyのライセンス画像を直接表示できるようになると報じられた。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "生成AIサービスと既存メディアのライセンス合意で、著作権処理や商用利用の前例となる可能性が高いため",
-    "published_at": "2026-06-23 07:46:00",
     "created_at": "2026-06-24 02:22:45"
   },
   {
