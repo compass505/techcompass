@@ -1,5 +1,25 @@
 [
   {
+    "title": "Meta、Facebookに無料の認証バッジ「Facebook Verified」　自撮り動画で登録、「Meta Verified」とは別",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/26/news015.html",
+    "summary": "MetaがFacebookで無料の本人認証バッジ「Facebook Verified」を導入。自撮り動画で本人確認を行う方式で、有料の「Meta Verified」とは別扱い。",
+    "importance": 2,
+    "category": "ビジネス",
+    "reason": "プラットフォームの認証方式とユーザーの本人確認プロセスに関する変更で、プライバシーや信頼性に関心のある利用者に有用。",
+    "published_at": "2026-07-26 09:42:00",
+    "created_at": "2026-07-27 01:16:10"
+  },
+  {
+    "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
+    "summary": "MicrosoftやNVIDIAら主要AI企業が、モデル重み（オープンウェイト）公開の規制に反対する公開書簡を発表。競争や研究への影響を懸念し、Anthropicは署名を見送った。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "AI規制議論における主要企業の立場表明で、規制の方向性や開発・公開姿勢に影響を与える可能性があるため重要。",
+    "published_at": "2026-07-26 06:51:00",
+    "created_at": "2026-07-27 01:16:10"
+  },
+  {
     "title": "仕事外のネット利用「平日4時間以上」で抑うつ傾向　富山大が調査",
     "url": "https://www.itmedia.co.jp/news/articles/2607/24/news098.html",
     "summary": "富山大学の調査で、平日の仕事外ネット利用が4時間以上の人に抑うつ傾向が見られたと報告。テレワークや働き方、従業員のメンタルヘルス対策に示唆を与える結果だが、影響範囲は限定的。",
@@ -228,16 +248,6 @@
     "reason": "主要AIプラットフォームが標的になり、商用モデルの解析拒否がセキュリティ運用に波及する可能性があるため業界影響が大きい",
     "published_at": "2026-07-20 10:08:00",
     "created_at": "2026-07-21 01:45:36"
-  },
-  {
-    "title": "AWS“兆ドル”誤見積は「ちょっとした計算ミス」　ジョークのつもり？　で大炎上→日本のAWS社員「あり得ない」と批判→対応",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/19/news010.html",
-    "summary": "AWSが“兆ドル”規模の見積を誤って公表し、それを「計算ミス」「ジョーク」と説明したことで炎上。日本のAWS社員からも批判が上がり、AWSが対応に追われている。",
-    "importance": 2,
-    "category": "クラウド",
-    "reason": "主要クラウド事業者の広報・信頼に関わる出来事で、顧客や業界の受け止め方に影響するため追う価値がある",
-    "published_at": "2026-07-19 07:40:00",
-    "created_at": "2026-07-20 01:13:07"
   },
   {
     "title": "佐川急便、約7万人分の個人情報漏えいか　「スマートクラブ」通知メールに別人の氏名など表示",
@@ -968,46 +978,6 @@
     "reason": "大手通信事業者の漏えいに起因するとみられる情報悪用で、利用者被害やISPの信頼に広く影響するため行動喚起が必要。",
     "published_at": "2026-06-27 08:15:00",
     "created_at": "2026-06-28 01:33:55"
-  },
-  {
-    "title": "OpenAI、「GPT-5.6」のリリースは特定のパートナーに限定か　上場は来年への延期を検討",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/26/news104.html",
-    "summary": "OpenAIが次期モデル「GPT-5.6」の一般公開を限定的にし、特定パートナー向けに先行提供する可能性が報じられた。\nまた、同社の上場計画は来年への延期が検討されていると報道され、AIビジネス戦略に注目が集まっている。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "主要AI事業者のモデル提供方針と上場延期は業界戦略と競争に影響するため重要。",
-    "published_at": "2026-06-26 15:30:00",
-    "created_at": "2026-06-27 02:11:30"
-  },
-  {
-    "title": "防衛省は“認知戦”にどう挑む　ウクライナ脅かすAIフェイク、偽アカウントへの対応は　分析資料を公開",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/26/news091.html",
-    "summary": "防衛省がAI生成フェイクや偽アカウントなどの“認知戦”に関する分析資料を公開。ウクライナ情勢での実例を挙げ、対策や課題を整理している。\n国家レベルでのAI悪用・情報操作への対応方針を探る資料だ。",
-    "importance": 3,
-    "category": "セキュリティ",
-    "reason": "AIを使った情報操作という国家安全保障上の課題で、政策や防御戦略に関わる重要情報のため。",
-    "published_at": "2026-06-26 13:35:00",
-    "created_at": "2026-06-27 02:11:30"
-  },
-  {
-    "title": "「Windows 10」の無料サポート延長プログラム、2027年10月12日まで1年間再延期",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/26/news061.html",
-    "summary": "MicrosoftのWindows 10無料サポート延長プログラムが再び1年延長され、終了日は2027年10月12日になった。\n企業や自治体のOS移行計画、セキュリティ対応スケジュールに直接影響する決定だ。",
-    "importance": 3,
-    "category": "その他",
-    "reason": "多くの組織の運用・移行判断に影響するOSサポート延長のため掲載価値が高い。",
-    "published_at": "2026-06-26 08:27:00",
-    "created_at": "2026-06-27 02:11:30"
-  },
-  {
-    "title": "Notion、メールアプリ「Notion Mail」終了へ　AIエージェントに全面移行",
-    "url": "https://www.itmedia.co.jp/news/articles/2606/26/news060.html",
-    "summary": "Notionがメールアプリ「Notion Mail」を終了し、機能をAIエージェントに全面的に移行する計画を発表した。\nメール中心のワークフローからAI主導の補助型インターフェースへの転換を示す動きで、SaaSプロダクトの方向性を示唆する。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "プロダクティビティツールのAI化というトレンドを示し、開発者・利用者のワークフローに影響するため。",
-    "published_at": "2026-06-26 07:32:00",
-    "created_at": "2026-06-27 02:11:30"
   },
   {
     "title": "IBM、世界初の「1nm未満」チップ技術を発表――3D構造「ナノスタック」でAIの処理を高速化",
