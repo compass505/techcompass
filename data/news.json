@@ -1,5 +1,55 @@
 [
   {
+    "title": "有識者はGoogleやX、Meta、ドワンゴを名指しで批判……総務省、偽広告や誹謗中傷に発信・拡散前の対策求める",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/27/news095.html",
+    "summary": "総務省が偽広告や誹謗中傷への対応強化を求め、有識者がGoogle、X、Meta、ドワンゴを名指しで批判。発信・拡散前の対策を求める動きが明確化した。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "主要プラットフォームを対象とする規制・監督強化の兆候で、運用や企業戦略に広く影響するため。",
+    "published_at": "2026-07-27 19:05:00",
+    "created_at": "2026-07-28 02:12:47"
+  },
+  {
+    "title": "検索結果に「詐欺ではありません」と表示させる詐欺手口、警視庁が注意喚起　AI要約も餌食に",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/27/news076.html",
+    "summary": "検索結果のスニペットやAI要約を悪用し「詐欺ではありません」と表示させる手口を警視庁が警告。AI要約の誤誘導も確認されている。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "検索UXとAI要約を悪用する新手口で、幅広いユーザーの被害につながる可能性があるため注目度が高い。",
+    "published_at": "2026-07-27 19:00:00",
+    "created_at": "2026-07-28 02:12:47"
+  },
+  {
+    "title": "ポケカ直営店に顔認証導入　「同一人物が何度も整理券受け取り・入店」に対策",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/27/news090.html",
+    "summary": "ポケモンカードの直営店が整理券の不正取得対策として顔認証を導入。同一人物の複数入店防止を狙うが、プライバシー懸念が出ている。",
+    "importance": 2,
+    "category": "セキュリティ",
+    "reason": "小売での顔認証導入が実務とプライバシー議論の先例になり得るため、関係者は注目すべき。",
+    "published_at": "2026-07-27 18:19:00",
+    "created_at": "2026-07-28 02:12:47"
+  },
+  {
+    "title": "「めっちゃカメレオン」公式Discord乗っ取り　担当者PCがマルウェア感染、管理者が全員BANに　現在は復旧",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/27/news067.html",
+    "summary": "公式Discordが担当者PCのマルウェア感染を契機に乗っ取られ、管理者全員が一時BANに。現在は復旧したが、運用側のPC/権限管理の脆弱性が浮き彫りに。",
+    "importance": 2,
+    "category": "セキュリティ",
+    "reason": "コミュニティ運営におけるマルウェア感染経路の実例で、同様の運営者にとって実務的な教訓があるため。",
+    "published_at": "2026-07-27 12:13:00",
+    "created_at": "2026-07-28 02:12:47"
+  },
+  {
+    "title": "「iPhone高騰」はこれからも続く？　中国CXMTに近づくApple、メモリ競合へのけん制が不発に終わりそうなワケ【後編】",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/27/news021.html",
+    "summary": "Appleが中国のメモリメーカーCXMTに接近しており、メモリ市場の競争や価格抑制策が効かない可能性を分析。iPhone価格上昇の継続リスクを指摘する。",
+    "importance": 3,
+    "category": "半導体",
+    "reason": "スマートフォンの価格動向とメモリ供給構造に関する市場分析で、業界や消費者に中長期的影響があるため。",
+    "published_at": "2026-07-27 07:00:00",
+    "created_at": "2026-07-28 02:12:47"
+  },
+  {
     "title": "Meta、Facebookに無料の認証バッジ「Facebook Verified」　自撮り動画で登録、「Meta Verified」とは別",
     "url": "https://www.itmedia.co.jp/news/articles/2607/26/news015.html",
     "summary": "MetaがFacebookで無料の本人認証バッジ「Facebook Verified」を導入。自撮り動画で本人確認を行う方式で、有料の「Meta Verified」とは別扱い。",
