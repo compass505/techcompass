@@ -1,5 +1,25 @@
 [
   {
+    "title": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に　Chrome統合は米国から",
+    "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
+    "summary": "Googleが個人向けAI「Gemini Spark」を日本で提供開始。Chromeとの統合機能は現時点で米国限定のまま。日本での利用開始は市場競争やユーザー体験に影響を与える可能性がある。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "主要プラットフォームであるGoogleの個人向けAIの国内展開は競争と利用環境に影響し、地域差（Chrome統合の未対応）も注目点のため。",
+    "published_at": "2026-08-02 10:12:35",
+    "created_at": "2026-08-03 01:15:21"
+  },
+  {
+    "title": "OpenAI、アクティブユーザー10億人超に　導入企業は200万社超",
+    "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
+    "summary": "OpenAIがアクティブユーザー数が10億人を超え、導入企業は200万社を超えたと発表。プラットフォーム規模の急拡大は業界競争、ビジネス導入、規制議論に影響を及ぼす可能性が高い。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "OpenAIの利用規模拡大は業界全体や政策議論、企業戦略に広く影響する主要ニュースであるため。",
+    "published_at": "2026-08-02 07:21:26",
+    "created_at": "2026-08-03 01:15:21"
+  },
+  {
     "title": "ソニーの熊本工場、8月中旬には「地震前の稼働水準」に　早期復旧の理由を決算会見で明かす",
     "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000341/",
     "summary": "ソニーの熊本工場は地震での被災から回復し、8月中旬には地震前の稼働水準に戻る見込みと発表。決算会見で早期復旧の理由や対応を説明した。イメージセンサーなど半導体供給への影響が注目される。",
@@ -258,16 +278,6 @@
     "reason": "スマートフォンの価格動向とメモリ供給構造に関する市場分析で、業界や消費者に中長期的影響があるため。",
     "published_at": "2026-07-27 07:00:00",
     "created_at": "2026-07-28 02:12:47"
-  },
-  {
-    "title": "Meta、Facebookに無料の認証バッジ「Facebook Verified」　自撮り動画で登録、「Meta Verified」とは別",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/26/news015.html",
-    "summary": "MetaがFacebookで無料の本人認証バッジ「Facebook Verified」を導入。自撮り動画で本人確認を行う方式で、有料の「Meta Verified」とは別扱い。",
-    "importance": 2,
-    "category": "ビジネス",
-    "reason": "プラットフォームの認証方式とユーザーの本人確認プロセスに関する変更で、プライバシーや信頼性に関心のある利用者に有用。",
-    "published_at": "2026-07-26 09:42:00",
-    "created_at": "2026-07-27 01:16:10"
   },
   {
     "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
@@ -997,16 +1007,6 @@
     "category": "セキュリティ",
     "reason": "ウェブ上のデータ収集とAI学習の制御という業界横断的な課題に対する実用的な対策だから",
     "published_at": "2026-07-03 10:55:00",
-    "created_at": "2026-07-04 01:47:19"
-  },
-  {
-    "title": "Amazonの衛星ブロードバンド「Leo」、打ち上げ300基突破で世界3位の規模に",
-    "url": "https://www.itmedia.co.jp/news/articles/2607/03/news083.html",
-    "summary": "Amazonの衛星ブロードバンド計画Leoが打ち上げ300基を突破し、規模で世界3位となった。\n衛星インターネットの競争激化とグローバルな接続インフラの選択肢拡大につながる動き。",
-    "importance": 3,
-    "category": "クラウド",
-    "reason": "衛星ブロードバンドの拡大はネットワークインフラとクラウド接続環境に影響があるため",
-    "published_at": "2026-07-03 10:29:00",
     "created_at": "2026-07-04 01:47:19"
   },
   {
