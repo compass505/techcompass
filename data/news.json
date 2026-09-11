@@ -1,5 +1,55 @@
 [
   {
+    "title": "本物そっくり“AI生成レシート“が経費精算の脅威に　マネフォ「自力で見破るのは難しい」　企業はどう備える？",
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001409/",
+    "summary": "AIで生成した実物そっくりのレシートが経費精算の不正に使われる懸念を報告。マネーフォワードは自力で見破るのが難しいと指摘し、企業側の検知・内部統制強化を促す。",
+    "importance": 3,
+    "category": "セキュリティ",
+    "reason": "AI悪用による業務不正が現実化しつつあり、企業の会計・内部統制に直結するため実務上の重要性が高い。",
+    "published_at": "2026-09-11 17:28:06",
+    "created_at": "2026-09-12 03:38:20"
+  },
+  {
+    "title": "OpenAI、最先端AI開発の減速を検討か　アルトマンCEOが社員に説明と米報道",
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001418/",
+    "summary": "OpenAIが最先端AI（フロンティア）の開発ペースを減速する検討を社内で行っていると報道。アルトマンCEOが社員に説明したという。開発方針の変更は業界全体に波及し得る。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要AI企業の開発ペース方針は技術競争、規制、安全性議論に大きな影響を与えるため重要。",
+    "published_at": "2026-09-11 15:57:36",
+    "created_at": "2026-09-12 03:38:20"
+  },
+  {
+    "title": "デジタル庁に不正アクセス、個人情報24.6万件漏えいか　各府省庁の職員情報など",
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001406/",
+    "summary": "デジタル庁が不正アクセスを受け、約24.6万件の個人情報が漏えいした可能性。各府省の職員情報などが含まれると報じられている。原因究明と影響範囲の特定が進行中。",
+    "importance": 5,
+    "category": "セキュリティ",
+    "reason": "政府機関で大規模な個人情報漏えいの疑い、国民・行政に広範な影響が及ぶため最重要。",
+    "published_at": "2026-09-11 13:56:53",
+    "created_at": "2026-09-12 03:38:20"
+  },
+  {
+    "title": "Amazon、OpenAIと広告で提携　Amazon DSPの広告主が「ChatGPT」内に広告出稿可能に",
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001396/",
+    "summary": "AmazonがOpenAIと提携し、Amazon DSPの広告主がChatGPT内に広告を出稿できるようにする計画を発表。AIチャット内の広告配信が可能になり、広告業界やプラットフォーム収益構造に影響を与える。",
+    "importance": 4,
+    "category": "ビジネス",
+    "reason": "主要プラットフォーム同士の連携で広告配信チャネルと収益モデルが変わるため業界影響が大きい。",
+    "published_at": "2026-09-11 10:03:13",
+    "created_at": "2026-09-12 03:38:20"
+  },
+  {
+    "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」　金融データ搭載し「GPT-6 Astra」で分析",
+    "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001392/",
+    "summary": "OpenAIが金融機関向けのChatGPTを発表。金融データを組み込み、最新モデル「GPT-6 Astra」を用いて分析や業務支援を行う。金融業界向けの商用AI提供を強化する動き。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "金融業務に特化した高度なAI導入は業務プロセス、リスク管理、規制対応に直接影響するため重要。",
+    "published_at": "2026-09-11 09:10:41",
+    "created_at": "2026-09-12 03:38:20"
+  },
+  {
     "title": "「iPhone Duo」発表　Apple初の折りたたみスマホ　36万4800円から",
     "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001335/",
     "summary": "Appleが初の折りたたみiPhone『iPhone Duo』を発表。価格は36万4800円からで、Appleのスマホ戦略におけるフォームファクタの転換点となる可能性がある。周辺市場や競争への影響が注目される。",
@@ -1030,16 +1080,6 @@
     "created_at": "2026-08-14 01:11:47"
   },
   {
-    "title": "Google版“AirTag”こと「Pixel Tag」登場　10億台のAndroidネットワークで居場所を探知",
-    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000518/",
-    "summary": "Googleが追跡デバイス「Pixel Tag」を発表。Androidネットワークを活用して位置検出を行い、AppleのAirTagに対抗する形に。",
-    "importance": 3,
-    "category": "ガジェット",
-    "reason": "プラットフォーム規模で展開する追跡デバイスはプライバシー／セキュリティ面で広範な影響があるため注目に値する。",
-    "published_at": "2026-08-12 23:34:21",
-    "created_at": "2026-08-13 01:11:55"
-  },
-  {
     "title": "GeminiアプリのMAUが10億人を突破　Googleで14番目の大台到達製品に",
     "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
     "summary": "GoogleのAIアプリ「Gemini」の月間アクティブユーザーが10億人を超え、同社製品として大台に到達。AIサービスの広範な普及を示すマイルストーンとなった。",
@@ -1050,16 +1090,6 @@
     "created_at": "2026-08-13 01:11:55"
   },
   {
-    "title": "中国発AIエージェント「Manus」、Metaから独立へ　中国政府が買収に反発、一部ユーザーデータは削除に",
-    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000508/",
-    "summary": "中国発AIエージェント「Manus」がMetaから独立する動きに。中国政府が買収に反発し、関連で一部ユーザーデータが削除されるなどガバナンス／データ政策の摩擦が表面化。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "企業買収をめぐる政府の介入とデータ削除は、国際的なAIビジネスとデータガバナンスに示唆を与えるため有用。",
-    "published_at": "2026-08-12 15:09:00",
-    "created_at": "2026-08-13 01:11:55"
-  },
-  {
     "title": "ソニーとTSMC、熊本に新会社　計7470億円を拠出、29年にスマホ向けセンサー量産開始",
     "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000501/",
     "summary": "ソニーとTSMCが熊本に新会社を設立、総額7470億円を拠出して2029年からスマートフォン向けイメージセンサーを量産。国内生産拠点の強化と半導体サプライチェーン再編を狙う。",
@@ -1067,16 +1097,6 @@
     "category": "半導体",
     "reason": "TSMCとソニーの大型投資は半導体供給体制と国際競争に影響する、業界レベルで重要な動きだから。",
     "published_at": "2026-08-12 12:28:05",
-    "created_at": "2026-08-13 01:11:55"
-  },
-  {
-    "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし”　日本を含むグローバルに適用へ",
-    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
-    "summary": "Anthropicが生成テキストに対する“見えない透かし”技術を導入し、Claudeでの出力にグローバル適用を開始。コンテンツ由来の追跡や検出が可能になる取り組みだ。",
-    "importance": 3,
-    "category": "AI",
-    "reason": "生成物の可検出化はAIガバナンス、検出技術、プライバシー・法規制議論に直接関わるため有用性が高い。",
-    "published_at": "2026-08-12 07:16:45",
     "created_at": "2026-08-13 01:11:55"
   },
   {
