@@ -1,5 +1,55 @@
 [
   {
+    "title": "OpenAI、数学者の独立諮問グループと連携　内部モデルは「100件超の未解決問題を解決」",
+    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001671/",
+    "summary": "OpenAIが独立の数学者諮問グループと連携し、同社内部のモデルが100件超の未解決問題を解いたと報告。成果の再現性や検証、学術界への影響が注目される。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "大手AIの能力向上を示す研究的主張で、研究・開発動向や信頼性検証に影響するため重要。",
+    "published_at": "2026-09-22 11:49:24",
+    "created_at": "2026-09-23 03:58:38"
+  },
+  {
+    "title": "OpenAI、フロンティアAIの国際標準づくりを米国主導で進めるよう提言　「RSIはまだ起きていない」",
+    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001670/",
+    "summary": "OpenAIがフロンティアAIの国際標準策定を米国主導で進めるよう提言し、現時点での深刻な自己強化型インテリジェンス（RSI）は起きていないと主張。",
+    "importance": 4,
+    "category": "法規制",
+    "reason": "国際標準化とガバナンスの方向性に関わる提言で、政策・産業ルール形成に広く影響するため高重要。",
+    "published_at": "2026-09-22 10:51:09",
+    "created_at": "2026-09-23 03:58:38"
+  },
+  {
+    "title": "Amazon、MetaのAIエージェント「Muse」による代理購入をブロック　Shopifyは全店舗で対応へ",
+    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001669/",
+    "summary": "AmazonがMetaのAIエージェントMuseによる代理購入をブロックし、Shopifyも全店舗で同様の対応を取る見込み。AIエージェントとECプラットフォームの関係に新たな摩擦。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "AIエージェントの商取引への参加を巡るプラットフォーム方針の対立で、EC事業者・消費者体験に実務的影響があるため選定。",
+    "published_at": "2026-09-22 09:43:43",
+    "created_at": "2026-09-23 03:58:38"
+  },
+  {
+    "title": "SpaceXAI、「Grok 4.7」発表　コーディングと知識労働向けで同社最高性能、価格は据え置き",
+    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001668/",
+    "summary": "SpaceXAIがGrokの新バージョン4.7を発表。コーディングや知識労働向けに性能を引き上げつつ価格は据え置きとし、開発者向け競争を激化させる可能性。",
+    "importance": 2,
+    "category": "AI",
+    "reason": "主要AIプロバイダの製品更新として競争には影響するが、単なる製品刷新の域を出ないため中程度の重要度。",
+    "published_at": "2026-09-22 08:46:47",
+    "created_at": "2026-09-23 03:58:38"
+  },
+  {
+    "title": "Google、「Googlebook」の予約受付開始　899ドル（約14万円）から",
+    "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001667/",
+    "summary": "Googleが新端末「Googlebook」の予約受付を開始。価格は899ドルからで、同社のハードウェア戦略とデバイス市場への影響が注目される。",
+    "importance": 2,
+    "category": "ガジェット",
+    "reason": "消費者向けハードの新発売で市場動向には関係するが、業界構造を即座に変えるほどではないため中程度の重要度。",
+    "published_at": "2026-09-22 07:30:05",
+    "created_at": "2026-09-23 03:58:38"
+  },
+  {
     "title": "トランプ大統領、「AI Force」創設を表明　「AI脅威論はでっちあげだ」",
     "url": "https://www.itmedia.co.jp/news/article/2609/21/2000001666/",
     "summary": "トランプ大統領が新たな『AI Force』創設を表明し、AIに対する脅威論を否定する発言を行った。米政権のAI政策・規制姿勢を示す動きで、国内外の規制議論や企業戦略に影響を与える可能性がある。",
