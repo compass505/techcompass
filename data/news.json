@@ -1,5 +1,55 @@
 [
   {
+    "title": "JCOM障害「インターネットが使えない」　サポート窓口もつながりにくく",
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001678/",
+    "summary": "JCOMで広域の通信障害が発生し、利用者がインターネットに接続できない状態に。サポート窓口も混雑していると報告されている。\n原因や復旧見込みが注目される事象で、影響範囲によっては業務や生活に支障が出る可能性がある。",
+    "importance": 3,
+    "category": "その他",
+    "reason": "大手ISPの広域障害は多数の利用者と事業者に直接影響するため、注目度が高い。",
+    "published_at": "2026-09-23 13:04:29",
+    "created_at": "2026-09-24 04:06:08"
+  },
+  {
+    "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001676/",
+    "summary": "トランプ米大統領が国連演説で「AI」という呼称を「Super Intelligence」に改めると表明した。\n直接的な技術影響は限定的だが、政策や世論の議論に影響を与える可能性がある。",
+    "importance": 1,
+    "category": "AI",
+    "reason": "用語変更は主に政治的・世論的影響であり、技術や市場への直結効果は限定的なため重要度は低め。",
+    "published_at": "2026-09-23 10:36:07",
+    "created_at": "2026-09-24 04:06:08"
+  },
+  {
+    "title": "Microsoft、Xboxで新たに268人削減　次期「Halo」はActivisionが開発、Ninja Theoryは閉鎖案",
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001675/",
+    "summary": "MicrosoftがXbox部門で268人の人員削減を実施。次期「Halo」はActivisionが開発すると発表され、Ninja Theoryの閉鎖案も報じられている。\nゲーム開発体制の再編で業界の雇用・開発体制に波及する可能性がある。",
+    "importance": 3,
+    "category": "ビジネス",
+    "reason": "主要プラットフォームの開発体制と人員削減は業界構造や開発者の雇用に影響を与えるため。",
+    "published_at": "2026-09-23 09:55:58",
+    "created_at": "2026-09-24 04:06:08"
+  },
+  {
+    "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開　API料金は前世代の半額に",
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001674/",
+    "summary": "OpenAIが新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開。API料金を前世代の半額に引き下げたと発表。\nモデル性能と大幅な価格改定が開発コストと利用拡大に直結する可能性が高い。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要プラットフォームの新世代モデルと大幅なAPI価格引き下げは市場構造と開発コストに大きな影響を与えるため。",
+    "published_at": "2026-09-23 09:12:02",
+    "created_at": "2026-09-24 04:06:08"
+  },
+  {
+    "title": "Anthropic、「Claude Opus 5.5」公開　Fable 5.1並みの性能で利用コスト4割減",
+    "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001673/",
+    "summary": "Anthropicが「Claude Opus 5.5」を公開。性能がFable 5.1並で、利用コストを約4割削減したとする。\nOpenAIとの競争で価格と性能の両面でプレッシャーをかける動き。開発者のコスト選好に影響を与える可能性あり。",
+    "importance": 3,
+    "category": "AI",
+    "reason": "競合モデルの性能向上とコスト削減はAIサービスの選択肢と価格競争に直結するため、多くの開発者に重要。",
+    "published_at": "2026-09-23 06:57:43",
+    "created_at": "2026-09-24 04:06:08"
+  },
+  {
     "title": "OpenAI、数学者の独立諮問グループと連携　内部モデルは「100件超の未解決問題を解決」",
     "url": "https://www.itmedia.co.jp/news/article/2609/22/2000001671/",
     "summary": "OpenAIが独立の数学者諮問グループと連携し、同社内部のモデルが100件超の未解決問題を解いたと報告。成果の再現性や検証、学術界への影響が注目される。",
@@ -988,16 +1038,6 @@
     "reason": "国のデジタルIDアプリの刷新は市民のオンライン手続きや認証方法に直接影響するため重要。",
     "published_at": "2026-08-25 08:37:03",
     "created_at": "2026-08-26 01:03:16"
-  },
-  {
-    "title": "東京の下町や浦安周辺はなぜ揺れやすい？　日本地震工学会の「揺れやすさ」マップが話題",
-    "url": "https://www.itmedia.co.jp/news/article/2608/24/2000000726/",
-    "summary": "日本地震工学会が公開した「揺れやすさ」マップが話題に。東京下町や浦安周辺などが揺れやすい理由を解説しており、防災や土地利用、建物対策の検討に利用できる。",
-    "importance": 3,
-    "category": "その他",
-    "reason": "多数の居住者・自治体に関わる地震リスク情報で、防災や都市計画に実務的な示唆を与える。",
-    "published_at": "2026-08-24 18:44:33",
-    "created_at": "2026-08-25 00:58:08"
   },
   {
     "title": "消費者庁、「ダークパターン」規制へ　特商法改正視野に中間取りまとめ案",
