@@ -1,5 +1,55 @@
 [
   {
+    "title": "デジ庁、政府機関向けファイル共有サービスで漏えいか　7月末から第三者がアクセス",
+    "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
+    "summary": "デジタル庁が提供する政府機関向けファイル共有サービスで、7月末から第三者がアクセスしていた可能性が報じられた。影響範囲や流出データの特定が課題で調査中。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "政府機関の情報が関わる大規模なセキュリティ事故で、政策・管理体制や国民の個人情報保護に影響するため優先度高い。",
+    "published_at": "2026-11-20 21:18:07",
+    "created_at": "2026-11-21 07:15:51"
+  },
+  {
+    "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+    "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
+    "summary": "Microsoftが、AIを使って高度化するサイバー攻撃に対抗するAIエージェント型の新サービス「Microsoft Perception」を提供開始したと発表。企業の防御戦略にAIを組み込む動きが進む。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "攻撃側・防御側ともにAI化が進む中で主要ベンダーの新サービスは企業のセキュリティ運用や市場に大きく影響するため重要。",
+    "published_at": "2026-11-20 13:29:35",
+    "created_at": "2026-11-21 07:15:51"
+  },
+  {
+    "title": "Google、宇宙AIデータセンター構想「Project Suncatcher」でベゾス氏のBlue Originと提携　2029年に衛星打ち上げへ",
+    "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003358/",
+    "summary": "Googleが宇宙を活用したAIデータセンター構想「Project Suncatcher」でBlue Originと提携、2029年に衛星打ち上げを予定。クラウド/インフラの新たな展開を目指す動き。",
+    "importance": 4,
+    "category": "クラウド",
+    "reason": "クラウドインフラの形を変えうる大手の戦略的提携で、将来のデータセンター運用や競争環境に広範な影響を及ぼす可能性があるため。",
+    "published_at": "2026-11-20 09:25:43",
+    "created_at": "2026-11-21 07:15:51"
+  },
+  {
+    "title": "湘南美容クリニックのSBC、162万人分の個人情報流出　パスワードは「暗号化せず保存していた」",
+    "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
+    "summary": "湘南美容クリニック運営のSBCで約162万人分の個人情報が流出。パスワードを暗号化せず保存していたと明らかになり、被害範囲と二次被害の懸念が大きい。",
+    "importance": 4,
+    "category": "セキュリティ",
+    "reason": "大量の個人情報流出かつパスワード未暗号化という重大な運用上の不備で、利用者保護と業界の信頼に強い影響を与えるため。",
+    "published_at": "2026-11-20 08:17:42",
+    "created_at": "2026-11-21 07:15:51"
+  },
+  {
+    "title": "AnthropicがNasdaq上場、IPO調達額は史上最大の813億ドル　初値は公開価格を34％上回る",
+    "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003354/",
+    "summary": "AI企業AnthropicがNasdaqに上場。調達額は史上最大の813億ドル、初値は公開価格を34％上回ったと報じられた。AI業界の資本構造に大きな影響を与える出来事。",
+    "importance": 4,
+    "category": "AI",
+    "reason": "主要AIプレイヤーの大規模上場は資金調達・競争環境・人材流動に直結し、業界全体に影響を与えるため重要度が高い。",
+    "published_at": "2026-11-20 06:38:41",
+    "created_at": "2026-11-21 07:15:51"
+  },
+  {
     "title": "Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開",
     "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
     "summary": "MicrosoftのAgent Frameworkの偽パッケージがPyPIに公開され、インストールすると認証情報を盗むと報告。OSSパッケージ経由のサプライチェーン攻撃の一例。",
@@ -3758,46 +3808,6 @@
     "reason": "国家主導の大規模投資は量子技術の競争環境と産業支援に直結し、長期的な市場構造を変えるため重要",
     "published_at": "2026-05-22 07:01:00",
     "created_at": "2026-05-23 05:52:36"
-  },
-  {
-    "title": "AI投資など成果最大化へ国・地域別戦略　自民提言案の全容判明　骨太にも反映",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/21/news126.html",
-    "summary": "自民党のAI投資などに関する提言案の全容が判明し、国・地域別の戦略や成果最大化の方針を示した。骨太の方針にも反映される見込みで、政府の資金配分や政策方針に影響する。研究開発や産業支援の方向性が変わる可能性がある。",
-    "importance": 4,
-    "category": "AI",
-    "reason": "政府のAI投資・政策方針を左右する提言で、産業や研究の資金配分に広く影響するため。",
-    "published_at": "2026-05-21 19:10:00",
-    "created_at": "2026-05-22 06:17:15"
-  },
-  {
-    "title": "Anthropic、SpaceXのクラウドに毎月2000億円弱を支払うと判明　「Claude」の計算リソース確保で",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/21/news083.html",
-    "summary": "Anthropicが大規模言語モデル「Claude」の計算リソース確保のため、SpaceXのクラウドに月額で約2000億円弱を支払っていると報道。AI企業と非伝統的クラウド事業者の契約拡大を示す。クラウド供給構造や価格形成への示唆が大きい。",
-    "importance": 4,
-    "category": "クラウド",
-    "reason": "AI事業者による巨額のクラウド支出とSpaceXの台頭が、AIインフラとクラウド市場の構造を変えうるため。",
-    "published_at": "2026-05-21 13:05:00",
-    "created_at": "2026-05-22 06:17:15"
-  },
-  {
-    "title": "NVIDIA、売上高は過去最高の816億ドル、純利益は3倍超に──AI投資「持続する」とフアンCEO",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/21/news063.html",
-    "summary": "NVIDIAが過去最高の売上高と大幅な純利益増を発表し、CEOはAIへの投資継続を表明。半導体セクターでの需要増と価格動向を反映する決算内容だ。業界や投資家にとって市場のモメンタムを確認する重要指標となる。",
-    "importance": 4,
-    "category": "半導体",
-    "reason": "NVIDIAの決算は半導体・AI投資の勢いを反映し、サプライチェーンや投資判断に広範な影響を及ぼすため。",
-    "published_at": "2026-05-21 09:16:00",
-    "created_at": "2026-05-22 06:17:15"
-  },
-  {
-    "title": "SpaceXがIPO申請　イーロン・マスクCEOが議決権の85.1％掌握へ",
-    "url": "https://www.itmedia.co.jp/news/articles/2605/21/news061.html",
-    "summary": "SpaceXがIPO申請を行い、イーロン・マスクCEOが議決権の約85.1％を保有する構造が明らかになった。上場は資金調達や宇宙ビジネスの市場化に影響を与える可能性が高い。企業統治や投資家への影響も注目される。",
-    "importance": 4,
-    "category": "ビジネス",
-    "reason": "大型テック企業の上場は資本市場・業界競争・ガバナンスに重大な影響を与えるため。",
-    "published_at": "2026-05-21 07:35:00",
-    "created_at": "2026-05-22 06:17:15"
   },
   {
     "title": "GitHub内部リポジトリへの不正アクセス、「悪意あるVS Code拡張機能」が関与と特定　約3800件流出か",
